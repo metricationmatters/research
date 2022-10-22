@@ -24,6 +24,7 @@ References
 
 1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
 2. [SI Concise Brocure](references/SI-Brochure-9-concise-EN.pdf)
+3. [SI Decisions](references/si-brochure-9-App1-EN.pdf)
 
 Web Sites
 
