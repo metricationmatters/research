@@ -3,7 +3,7 @@ Research on SI Metric System
 
 Issues
 
-1. [Rename the Kilogram](RenameKilogram.txt)
+1. [Rename the Kilogram](proposals/RenameKilogram.txt)
 2. Circular dependencies
 3. Unclear definitions
 4. Prefix irregularities
@@ -11,9 +11,9 @@ Issues
 
 Reports
 
-1. [Mile Behind Final Report](MileBehind-sst-final-3.pdf)
+1. [Mile Behind Final Report](reports/MileBehind-sst-final-3.pdf)
 
-[Metric Business Card](MetricBusinessCard-v1.pdf)
+[Metric Business Card](personal/MetricBusinessCard-v1.pdf)
 
 Web Sites
 
@@ -23,9 +23,9 @@ Web Sites
 
 Proposals
 
-1. [Rename the Kilogram](RenameKilogram.txt)
-2. [Change Prefixes](ProposedPrefixes.md)
+1. [Rename the Kilogram](proposals/RenameKilogram.txt)
+2. [Change Prefixes](proposals/ProposedPrefixes.md)
 
 References
 
-1. [SI Brochure](SI-Brochure-9-EN.pdf)
+1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
