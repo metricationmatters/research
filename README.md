@@ -1,5 +1,7 @@
 
-Research and Issues on SI Metric System
+Research on SI Metric System
+
+Issues
 
 1. [Rename the Kilogram](RenameKilogram.txt)
 2. Circular dependencies
@@ -18,6 +20,11 @@ Web Sites
 1. http://www.reddit.com/r/Metric
 2. https://themetricmaven.com/
 3. https://milebehind.wordpress.com/
+
+Proposals
+
+1. [Rename the Kilogram](RenameKilogram.txt)
+2. [Change Prefixes](ProposedPrefixes.md)
 
 References
 
