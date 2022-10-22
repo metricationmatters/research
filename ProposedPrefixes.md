@@ -4,8 +4,10 @@ Regularize the names and prefix symbols from previous irregular rules.
 
 Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
 
-Rule #1: Capitalize Magnifying prefixes and symbols, otherwise start with lowercase.
-Rule #2: Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
+Rules
+
+1. Capitalize Magnifying prefixes and symbols, otherwise start with lowercase.
+2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
 
 Magnifying Prefixes
 
