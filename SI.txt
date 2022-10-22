@@ -1,0 +1,91 @@
+                           SI system issue #1
+
+Can the "SI system of measurement" be improved from its current definition?
+
+How can those improvements be accomplished?
+
+I have several issues with the SI system as currently defined.
+
+I will probably dole them out one at a time for discussion so as not to complicate matters.
+
+I have heard the following lamented before but don't recall hearing anyone put forth a solution.  Maybe you can point me to other proposals.
+
+The Problem:
+
+A significant issue I have at the moment with the SI system, as currently defined, is the current name for the base unit of mass.
+
+Currently it is named the "kilogram".
+
+Issues:
+
+1. This leads to all sorts of errors and confusion on prefixes.
+2. The rules say you can't call something a "kilokilogram".
+3. It makes it sound like the base unit of mass is the gram, which is not the case.
+4. This leads to people using the prefixes with the "gram" but the "gram" is not the base unit.
+5. This often results in errors by a factor of 1000.
+
+I realize that this is just a fluke of history; someone decided to call it that and that's the way it is.
+
+On reason may be that the SI System (as currently defined) was designed after the name was selected, instead of before.
+
+6. However, in so naming, the SI system ignores its own rules and has a prefix of "kilo" to the word "gram", a gram being (of course) 1/1000 times the base unit.
+
+That is very irregular compared with the rest of the units and very confusing (at least to me, and maybe to someone trying to learn the system for the first time); especially when it is the only special case.
+
+7. Why would a "base unit" be named as a prefix multiplier of its sub-units?
+
+
+A base unit name should be just a unique name in the system such that you can write "1 UnitName" and not have the same name as other unit names in the system.
+
+
+Proposal:
+
+I would like to rename the base unit of mass to be the "klug".
+
+I really don't care whether it is a different name other than "klug" or not, it just needs to different than "kilogram".
+
+However, a different name would need a different symbol.
+
+I'm trying to promote a "minimum necessary change" to improve the SI system.
+
+I chose a name that would have the same abbreviation as before, just a name change.
+
+1000 grams  = 1 klug (kg)
+1000 klugs  = 1 kiloklug (also known as 1 metric ton)
+1 gram      = 1 milliklug
+1 milligram = 1 microklug
+1 microgram = 1 nanoklug
+
+
+Advantages:
+
+  1. Allows normal SI rules regarding prefixes (main point).
+  2. The same abbreviation (kg) would be retained.
+  3. Minimum necessary change to allow correct prefixes to be used.
+  4. It is one syllable.
+  5. It is reminiscent, in the sound of the name, of the english unit "slug".
+
+Disadvantages:
+
+  1. As with any renaming effort, it would take quite a while before it became common usage.
+
+What other advantages or disadvantages would there be?
+
+*** Note: Other renamings have taken place in the past like:
+1. "cycles per second" unit renamed to "Hertz".
+2. "centigrade" unit renamed to "Celsius".
+Any others?
+
+
+As with almost anything, there will be people who disagree.
+
+If you disagree, why?
+
+If you dislike the name, what name and abbreviation would you rename it to?
+
+I would hope that in the future our standardized system of measurements could be rationalized, simplified, made more regular, use no special cases, and otherwise "improved".
+
+Thanks for your consideration.
+
+Version 1.0
+
