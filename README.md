@@ -1,7 +1,7 @@
 
 Research and Issues on SI Metric System
 
-1. [Kilogram Prefix](SI.txt)
+1. [Rename the Kilogram](RenameKilogram.txt)
 2. Circular dependencies
 3. Unclear definitions
 4. Prefix irregularities
