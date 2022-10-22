@@ -7,8 +7,8 @@ Research and Issues on SI Metric System
 4. Prefix irregularities
 
 
-References
+Web Sites
 
-http://www.reddit.com/r/Metric
-https://themetricmaven.com/
-https://milebehind.wordpress.com/
+1. http://www.reddit.com/r/Metric
+2. https://themetricmaven.com/
+3. https://milebehind.wordpress.com/
