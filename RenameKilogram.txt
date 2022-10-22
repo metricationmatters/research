@@ -19,21 +19,20 @@ Currently it is named the "kilogram".
 Issues:
 
 1. This leads to all sorts of errors and confusion on prefixes.
-2. The rules say you can't call something a "kilokilogram".
-3. It makes it sound like the base unit of mass is the gram, which is not the case.
-4. This discourages or prevents people from using prefixes with the base unit of mass.
-5. This promotes using the prefixes with the "gram" but the "gram" is not the base unit.
-6. This often results in errors by a factor of 1000.
+2. The rules say you can't call something a "kilokilogram" which prevents people from using prefixes with the base unit of mass.
+3. This promotes using the prefixes with the "gram" but the "gram" is not the base unit.
+4. It makes it sound like the base unit of mass is the gram, which is not the case.
+5. This often results in errors by a factor of 1000.
 
 I realize that this is just a fluke of history; someone decided to call it that and that's the way it is.
 
 On reason may be that the SI System (as currently defined) was designed after the name was selected, instead of before.
 
-7. However, in so naming, the SI system ignores its own rules and has a prefix of "kilo" to the word "gram", a gram being (of course) 1/1000 times the base unit.
+6. However, in so naming, the SI system ignores its own rules and has a prefix of "kilo" to the word "gram", a gram being (of course) 1/1000 times the base unit.
 
 That is very irregular compared with the rest of the units and very confusing (at least to me, and maybe to someone trying to learn the system for the first time); especially when it is the only special case.
 
-8. Why would a "base unit" be named as a prefix multiplier of its sub-units?
+7. Why would a "base unit" be named as a prefix multiplier of its sub-units?
 
 
 A base unit name should be just a unique name in the system such that you can write "1 UnitName" and not have the same name as other unit names in the system.
