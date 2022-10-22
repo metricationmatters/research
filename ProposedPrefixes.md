@@ -1,5 +1,9 @@
                             Proposed Prefixes
 
+Regularize the names and prefix symbols from previous irregular rules.
+
+Deprecate or 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
+
 Magnifying Prefixes
 
 | Value            | SI Symbol | Prefix Symbol | Notes                 |
