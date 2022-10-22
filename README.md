@@ -1,4 +1,6 @@
 
 Research and Issue on SI Metric System
 
-[Kilogram Prefix](SI.txt)
+1. [Kilogram Prefix](SI.txt)
+2. Circular dependencies
+3. Unclear definitions
