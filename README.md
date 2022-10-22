@@ -15,12 +15,6 @@ Reports
 
 [Metric Business Card](personal/MetricBusinessCard-v1.pdf)
 
-Web Sites
-
-1. http://www.reddit.com/r/Metric
-2. https://themetricmaven.com/
-3. https://milebehind.wordpress.com/
-
 Proposals
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
@@ -29,3 +23,11 @@ Proposals
 References
 
 1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
+2. [SI Concise Brocure](references/SI-Brochure-9-concise-EN.pdf)
+
+Web Sites
+
+1. http://www.reddit.com/r/Metric
+2. https://themetricmaven.com/
+3. https://milebehind.wordpress.com/
+
