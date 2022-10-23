@@ -37,3 +37,8 @@ Web Sites
 2. https://themetricmaven.com/
 3. https://milebehind.wordpress.com/
 
+Humor
+
+1. [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
+2. [Metric Jokes](MetricJokes.txt)
+
