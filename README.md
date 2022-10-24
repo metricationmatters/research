@@ -32,6 +32,7 @@ Paper
 
 1. [Standard Metric Paper](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 1. [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E)
+1. [Metric Paper Drawings](https://www.engineeringtoolbox.com/drawings-paper-sheets-sizes-d_349.html)
 
 History
 
