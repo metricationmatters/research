@@ -31,6 +31,7 @@ References
 Paper
 
 1. [Standard Metric Paper](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
+1. [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E)
 
 History
 
