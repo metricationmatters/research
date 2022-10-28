@@ -28,6 +28,8 @@ I realize that this is just a fluke of history; someone decided to call it that 
 
 On reason may be that the SI System (as currently defined) was designed after the name was selected, instead of before.
 
+It appears that right at the beginning when the Metric System was first adopted, they didn't rename "Kilogram" to something else; that was a mistake.
+
 However, in so naming, the SI system ignores its own rules and has a prefix of "kilo" to the word "gram", a gram being (of course) 1/1000 times the base unit.
 
 That is very irregular compared with the rest of the units and very confusing (at least to me, and maybe to someone trying to learn the system for the first time); especially when it is the only special case.
