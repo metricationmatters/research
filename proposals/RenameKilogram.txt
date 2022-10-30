@@ -16,11 +16,10 @@ Currently it is named the "kilogram".
 
 Issues:
 
-1. This leads to all sorts of errors and confusion on prefixes.
-2. The rules say you can't call something a "kilokilogram" which prevents people from using prefixes with the base unit of mass.
-3. This promotes using the prefixes with the "gram" but the "gram" is not the base unit.
-4. It makes it sound like the base unit of mass is the gram, which is not the case.
-5. This often results in errors by a factor of 1000.
+1. The rules say you can't call something a "kilokilogram" which prevents people from using prefixes with the base unit of mass.
+1. This promotes using the prefixes with the "gram" but the "gram" is not the base unit.
+1. It makes it sound like the base unit of mass is the gram, which is not the case.
+1. This often results in confusion and errors by a factor of 1000.
 
 I realize that this is just a fluke of history; someone decided to call it that and that's the way it is.
 
