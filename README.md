@@ -20,6 +20,10 @@ Proposals
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
 1. [Change Prefixes](proposals/ProposedPrefixes.md)
 
+Cost of NOT Metricating
+
+[Cost of NOT Metricating](esearch/CostOfNonMetrication.pdf)
+
 References
 
 1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
