@@ -22,7 +22,7 @@ Proposals
 
 Cost of NOT Metricating
 
-[Cost of NOT Metricating](esearch/CostOfNonMetrication.pdf)
+[Cost of NOT Metricating](research/CostOfNonMetrication.pdf)
 
 References
 
