@@ -1,13 +1,25 @@
-                            Proposed Prefixes
+                            Proposed Prefix Changes
 
 Regularize the names and prefix symbols from previous irregular rules.
+
+Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
+
+1. The difference in capitalization of the magnifying prefixes ( currently "kilo" is not capitalized but the rest are ).
+2. The endings are not consistent.  Some end in '-a' and some in '-o' and there doesn't seem to be a rule.
+3. There is no need for the 'deka', 'hecto', 'deci', and 'centi'.  We can simplify the system by deprecating them.  Instead of saying something is 1 centimeters we can say something is '10 millometers' (combing rules and deprecation).
+
+Proposal:
 
 Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
 
 Rules
 
-1. Magnifying prefixes start with capital leters, minifying prefixes start with lower case letters.
+1. Magnifying prefixes start with upper case letters, minifying prefixes start with lower case letters.
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
+3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their endings.
+
+
+Examples:
 
 Magnifying Prefixes
 
