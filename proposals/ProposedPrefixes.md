@@ -24,11 +24,13 @@ Rules
 
 Examples:
 
+*** Note: The following prefixes cover the majority of all usage, although two ne Magnifying and Minifying prefixes are currently proposed.
+
 Magnifying Prefixes
 
 | Value            | SI Symbol | Prefix Symbol | Notes                 |
 | :---             | :---      | :---          | :---                  |
-| 10<sup>24</sup>  | Yotta     | Y             |                       |
+| 10<sup>24</sup>  | Yotta     | Y             | Size of observerable universe in meters |
 | 10<sup>21</sup>  | Zetta     | Z             |                       |
 | 10<sup>18</sup>  | Exa       | E             |                       |
 | 10<sup>15</sup>  | Peta      | P             |                       |
@@ -48,7 +50,7 @@ Minifying Prefixes
 | 10<sup>-15</sup> | femto     | f             |                       |
 | 10<sup>-18</sup> | atto      | a             |                       |
 | 10<sup>-21</sup> | zepto     | z             |                       |
-| 10<sup>-24</sup> | yocto     | y             |                       |
+| 10<sup>-24</sup> | yocto     | y             | So small it is rarely used |
 
 Deprecate and change:
 
