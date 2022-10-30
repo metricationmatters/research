@@ -1,7 +1,7 @@
 [DRAFT]
                         Proposed SI Prefix Changes
 
-Even though the current SI system is fairly simple as it is currently, I think it can be made even more simple and more regular in the rules that it uses.
+Even though the SI system prefixes are fairly simple as they are currently defined (2022), I think the SI system prefix names and rules can be made even more simple and more regular.
 
 Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
 
