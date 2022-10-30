@@ -25,7 +25,7 @@ Rules
 
 1. Magnifying prefixes start with upper case letters, minifying prefixes start with lower case letters.
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
-3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their endings.
+3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their beginning and endings.
 
 I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
 
