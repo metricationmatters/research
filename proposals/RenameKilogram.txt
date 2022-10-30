@@ -16,7 +16,7 @@ Currently it is named the "kilogram".
 
 Issues:
 
-1. The rules say you can't call something a "kilokilogram" which prevents people from using correct prefixes with the base unit of mass.
+1. In so naming, the SI system ignores its own rules. The rules say you can't call something a "kilokilogram". This prevents using correct prefixes with the base unit of mass.
 2. This promotes use of, and makes it sound like, the base unit of mass is the gram, which is not the case.
 3. This often results in confusion and errors by a factor of 1000.
 
@@ -26,7 +26,6 @@ On reason may be that the SI System (as currently defined) was designed after th
 
 It appears that right at the beginning when the Metric System was first adopted, they didn't rename "Kilogram" to something else; that was a mistake.
 
-However, in so naming, the SI system ignores its own rules and has a prefix of "kilo" to the word "gram", a gram being (of course) 1/1000 times the base unit.
 
 That is very irregular compared with the rest of the units and very confusing (at least to me, and maybe to someone trying to learn the system for the first time); especially when it is the only special case.
 
