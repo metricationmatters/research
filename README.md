@@ -49,3 +49,7 @@ Humor
 1. [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
 1. [Metric Jokes](MetricJokes.txt)
 
+Non-Metric but Interesting
+
+[Gegorian Calendar Proclomation](https://www.fourmilab.ch/documents/calendar/IG_Latin.html)
+
