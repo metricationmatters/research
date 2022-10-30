@@ -1,8 +1,8 @@
-                            Proposed Prefix Changes
+                        Proposed SI Prefix Changes
 
 Regularize the prefix names from previous irregular rules.
 
-Even though the current system is fairly simple, I think it can be made even more simple and regularized.
+Even though the current SI system is fairly simple, I think it can be made even more simple and regularized.
 
 Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
 
