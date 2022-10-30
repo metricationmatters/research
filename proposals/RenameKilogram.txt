@@ -59,7 +59,7 @@ I chose a name that would have the same symbol as before, just a name change.
 
 Advantages:
 
-  1. Allows normal SI rules regarding prefixes (main point).
+  1. Allows normal SI rules regarding prefixes, getting rid of confusing usages of "gram" and off-by-1000 errors. (main point).
   2. The same symbol (kg) would be retained.
   3. Minimum necessary change to allow correct prefixes to be used.
   4. It is one syllable.
