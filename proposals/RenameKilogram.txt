@@ -46,7 +46,7 @@ I would like to rename the base unit of mass to be the "klug".
 
 I really don't care whether it is a different name other than "klug" or not, it just needs to different than "kilogram".
 
-However, a different name would need a different symbol.
+However, a different name would normally need a different symbol.
 
 I'm trying to promote a "minimum necessary change" to improve the SI system.
 
