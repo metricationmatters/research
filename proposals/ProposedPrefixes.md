@@ -1,6 +1,6 @@
                             Proposed Prefix Changes
 
-Regularize the names and prefix symbols from previous irregular rules.
+Regularize the prefix names from previous irregular rules.
 
 Even though the current system is fairly simple, I think it can be made even more simple and regularized.
 
