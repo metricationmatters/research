@@ -6,8 +6,6 @@ How can those improvements be accomplished?
 
 I have several issues with the SI system as currently defined.
 
-I will probably dole them out one at a time for discussion so as not to complicate matters.
-
 I have heard the following lamented before but don't recall hearing anyone put forth a solution.  Maybe you can point me to other proposals.
 
 The Problem:
