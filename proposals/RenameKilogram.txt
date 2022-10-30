@@ -53,7 +53,7 @@ I chose a name that would have the same symbol as before, just a name change.
 1 milligram = 1 microklug
 1 microgram = 1 nanoklug
 
-*** Note: Notice how with this change, the "gram" unit is not even needed now. Simplify to call *everything* in terms of the one base unit, the "klug"!
+*** Note: I'm not propsing deprecating or obsoleting the gram in this propsal, but notice how with this change, the "gram" unit is not even needed now.  We can call *everything* in terms of the one base unit, the "klug"!  Maybe in the future we could simplify even further by deprecating or obsoleting the gram.
 
 Advantages:
 
@@ -61,7 +61,7 @@ Advantages:
   2. The same symbol (kg) would be retained.
   3. Minimum necessary change to allow correct prefixes to be used.
   4. It is one syllable.
-  5. With a proper name for base unit of mass, the "gram" unit is no longer needed, though I'm not adverse to keeping it, but deprecating it would simplify the system even more with no loss of expression.
+  5. With a proper name for the base unit of mass, the "gram" unit is no longer needed. I'm not adverse to keeping it, but deprecating or obsoleting it in the future would simplify the system even more with no loss of expression.
   6. It is reminiscent, in the sound of the name, of the english unit "slug".
 
 Disadvantages:
