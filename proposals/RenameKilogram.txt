@@ -50,7 +50,7 @@ However, a different name would normally need a different symbol.
 
 I'm trying to promote a "minimum necessary change" to improve the SI system.
 
-I chose a name that would have the same abbreviation as before, just a name change.
+I chose a name that would have the same symbol as before, just a name change.
 
 1000 grams  = 1 klug (kg)
 1000 klugs  = 1 kiloklug (also known as 1 metric ton)
@@ -62,7 +62,7 @@ I chose a name that would have the same abbreviation as before, just a name chan
 Advantages:
 
   1. Allows normal SI rules regarding prefixes (main point).
-  2. The same abbreviation (kg) would be retained.
+  2. The same symbol (kg) would be retained.
   3. Minimum necessary change to allow correct prefixes to be used.
   4. It is one syllable.
   5. It is reminiscent, in the sound of the name, of the english unit "slug".
@@ -83,7 +83,7 @@ As with almost anything, there will be people who disagree.
 
 If you disagree, why?
 
-If you dislike the name, what name and abbreviation would you rename it to?
+If you dislike the name, what name and symbol would you rename it to?
 
 I would hope that in the future our standardized system of measurements could be rationalized, simplified, made more regular, use no special cases, and otherwise "improved".
 
