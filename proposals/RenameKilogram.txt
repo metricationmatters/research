@@ -48,8 +48,8 @@ I'm trying to promote a "minimum necessary change" to improve the SI system.
 
 I chose a name that would have the same symbol as before, just a name change.
 
-1000 grams  = 1 klug (kg)
 1000 klugs  = 1 kiloklug
+1000 grams  = 1 klug (kg) (base unit of mass)
 1 gram      = 1 milliklug
 1 milligram = 1 microklug
 1 microgram = 1 nanoklug
