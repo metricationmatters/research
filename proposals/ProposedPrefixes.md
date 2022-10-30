@@ -22,6 +22,9 @@ Rules
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
 3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their endings.
 
+I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
+
+I would hope that people can agree to change things when they can be made simpler and more regular.
 
 Examples:
 
