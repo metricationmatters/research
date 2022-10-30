@@ -1,7 +1,5 @@
                         Proposed SI Prefix Changes
 
-Regularize the prefix names from previous irregular rules.
-
 Even though the current SI system is fairly simple, I think it can be made even more simple and regularized.
 
 Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
@@ -12,6 +10,8 @@ Whenever I look at the list of prefixes, several things immediately stand out gl
 It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> units and makes it match Engineering notation.  The main reason is the simplication of the system which makes things easier to teach, learn, and use.
 
 Proposal:
+
+Regularize the prefix names from previous irregular rules.
 
 Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
 
