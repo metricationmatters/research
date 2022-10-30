@@ -22,7 +22,7 @@ Rules
 
 I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
 
-Let's always strive to improve and make things better.
+The SI system is constanly evolving and changing to be better, why not make it better by doing this?
 
 Thanks for your consideration.
 
