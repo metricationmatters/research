@@ -12,9 +12,7 @@ It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> un
 
 Proposal:
 
-Regularize the prefix names from previous irregular rules as follows:
-
-Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
+Regularize the prefix names from previous irregular rules and deprecate as follows:
 
 Rules
 
@@ -24,7 +22,9 @@ Rules
 
 I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
 
-I would hope that people can agree to change things when they can be made simpler and more regular.
+Let's always srtive to improve and make things better.
+
+Thanks for your consideration.
 
 Examples:
 
