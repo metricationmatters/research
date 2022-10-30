@@ -27,6 +27,8 @@ Rules
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
 3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their beginnings and endings.
 
+With any change, there are pros and cons.  What are the pros and cons for this proposal in your mind?
+
 I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
 
 The SI system is constanly evolving and changing to be better, why not make it better by doing this?
