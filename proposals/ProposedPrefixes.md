@@ -11,7 +11,7 @@ It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> un
 
 Proposal:
 
-Regularize the prefix names from previous irregular rules.
+Regularize the prefix names from previous irregular rules as follows:
 
 Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes to be in more regular form.
 
