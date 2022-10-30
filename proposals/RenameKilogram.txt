@@ -54,6 +54,7 @@ I chose a name that would have the same symbol as before, just a name change.
 1 milligram = 1 microklug
 1 microgram = 1 nanoklug
 
+*** Note: "gram" unit not even needed now, simplify to call *everything* in terms of one unit!
 
 Advantages:
 
