@@ -22,7 +22,7 @@ Rules
 
 I expect this proprosal to be controversial. All I can say is I think it would help the current SI system become more simplified and regular which is always a good thing in my opinion.
 
-Let's always srtive to improve and make things better.
+Let's always strive to improve and make things better.
 
 Thanks for your consideration.
 
