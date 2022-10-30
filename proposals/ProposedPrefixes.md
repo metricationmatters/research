@@ -2,6 +2,8 @@
 
 Regularize the names and prefix symbols from previous irregular rules.
 
+Even though the current system is fairly simple, I think it can be made even more simple and regularized.
+
 Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
 
 1. The difference in capitalization of the magnifying prefixes ( currently "kilo" is not capitalized but the rest are ).
