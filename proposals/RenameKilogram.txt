@@ -10,7 +10,7 @@ I have heard the following lamented before but don't recall hearing anyone put f
 
 The Problem:
 
-A significant issue I have at the moment with the SI system, as currently defined, is the current name for the base unit of mass.
+A significant issue I have at the moment with the SI system, as currently defined, is the name for the base unit of mass.
 
 Currently it is named the "kilogram".
 
