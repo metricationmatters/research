@@ -6,7 +6,7 @@ Issues
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
 1. Circular dependencies
 1. Unclear definitions
-1. Prefix irregularities
+1. [Prefix Problems](roposals/ProposedPrefixes.md)
 
 
 Reports
@@ -18,7 +18,7 @@ Reports
 Proposals
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
-1. [Change Prefixes](proposals/ProposedPrefixes.md)
+1. [Prefix Problems](proposals/ProposedPrefixes.md)
 
 Cost of NOT Metricating
 
