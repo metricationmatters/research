@@ -24,7 +24,7 @@ Rules
 
 Examples:
 
-*** Note: The following prefixes cover the majority of all usage, although two ne Magnifying and Minifying prefixes are currently proposed.
+*** Note: The following prefixes cover the majority of all usage, although two new Magnifying and minifying prefixes are currently proposed.
 
 Magnifying Prefixes
 
@@ -50,7 +50,7 @@ Minifying Prefixes
 | 10<sup>-15</sup> | femto     | f             |                       |
 | 10<sup>-18</sup> | atto      | a             |                       |
 | 10<sup>-21</sup> | zepto     | z             |                       |
-| 10<sup>-24</sup> | yocto     | y             | So small it is rarely used |
+| 10<sup>-24</sup> | yocto     | y             | So small it is rarely used. |
 
 Deprecate and change:
 
