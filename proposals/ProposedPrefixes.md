@@ -8,7 +8,7 @@ Whenever I look at the list of prefixes, several things immediately stand out gl
 1. The difference in capitalization of the magnifying prefixes ( currently "kilo" is not capitalized but the rest are ).
 2. The endings are not consistent.  Some end in '-a' and some in '-o' and there doesn't seem to be a rule.
 3. There is no need for the 'deka', 'hecto', 'deci', and 'centi' prefixes; they only clutter up the number of prefixes close to 1. Let's get rid of prefixes we don't absolutely need.  We can simplify the system by deprecating them.  Instead of saying something is 1 centimeter we can say something is '10 millometers' (combing rules and deprecation).
-It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> units and makes it match Engineering notation.  The main reason is the simplication of the system which makes things easier to teach, learn, and use.
+It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> units and makes it match Engineering notation.  The main reason is the simplication of the system which makes things easier to teach, learn, and use.  At the very least, let's change the names to abide by more regular rules.
 
 Proposal:
 
