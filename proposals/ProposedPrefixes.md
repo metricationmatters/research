@@ -28,7 +28,7 @@ I would hope that people can agree to change things when they can be made simple
 
 Examples:
 
-*** Note: The following prefixes cover the majority of all usage, although two new Magnifying and minifying prefixes are currently proposed.
+*** Note: The following prefixes cover the majority of all usage, although two new Magnifying and minifying prefixes are currently proposed. Currently there are 16 total prefixes (with the deprecation mentioned).  If the proposal is carried out there will be 20 prefixes (with deprecation mentioned).
 
 Magnifying Prefixes
 
