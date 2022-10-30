@@ -30,7 +30,7 @@ Magnifying Prefixes
 
 | Value            | SI Symbol | Prefix Symbol | Notes                 |
 | :---             | :---      | :---          | :---                  |
-| 10<sup>24</sup>  | Yotta     | Y             | Size of observerable universe in meters |
+| 10<sup>24</sup>  | Yotta     | Y             | Size of observable universe in meters. |
 | 10<sup>21</sup>  | Zetta     | Z             |                       |
 | 10<sup>18</sup>  | Exa       | E             |                       |
 | 10<sup>15</sup>  | Peta      | P             |                       |
