@@ -35,7 +35,7 @@ Thanks for your consideration.
 
 Examples:
 
-*** Note: The following prefixes cover the majority of all usage, although two new Magnifying and minifying prefixes are currently proposed. Currently there are 16 total prefixes (with the deprecation mentioned).  If the proposal is carried out there will be 20 prefixes (with deprecation mentioned).
+*** Note: The following prefixes cover the majority of all usage, although two new Magnifying and minifying prefixes are currently proposed by the CGPM committee. Currently there are 16 total prefixes (with the deprecation mentioned).  If the proposal is carried out there will be 20 prefixes (with deprecation mentioned).
 
 Magnifying Prefixes
 
