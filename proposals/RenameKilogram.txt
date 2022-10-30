@@ -62,7 +62,7 @@ Advantages:
   2. The same symbol (kg) would be retained.
   3. Minimum necessary change to allow correct prefixes to be used.
   4. It is one syllable.
-  5. With a proper name for base unit of mass, I'm not even sure we need the unit "gram" any longer, though I'm not adverse to keeping it, but deprecating it would simplify the system even more which is always a good thing in my opinion.
+  5. With a proper name for base unit of mass, the "gram" unit is no longer needed, though I'm not adverse to keeping it, but deprecating it would simplify the system even more which is always a good thing in my opinion.
   6. It is reminiscent, in the sound of the name, of the english unit "slug".
 
 Disadvantages:
