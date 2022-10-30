@@ -6,7 +6,7 @@ Deprecate 4 prefixes.  If not deprecate then at least change 4 existing prefixes
 
 Rules
 
-1. Capitalize Magnifying prefixes and symbols, otherwise start with lowercase.
+1. Magnifying prefixes start with capital leters, minifying prefixes start with lower case letters.
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
 
 Magnifying Prefixes
