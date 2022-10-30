@@ -55,7 +55,7 @@ I chose a name that would have the same symbol as before, just a name change.
 1 milligram = 1 microklug
 1 microgram = 1 nanoklug
 
-*** Note: I'm not propsing deprecating or obsoleting the gram in this propsal, but notice how with this change, the "gram" unit is not even needed now.  We can call *everything* in terms of the one base unit, the "klug"!  Maybe in the future we could simplify even further by deprecating or obsoleting the gram.
+*** Note: I'm not proposing deprecating or obsoleting the gram in this propsal, but notice how with this change, the "gram" unit is not even needed now.  We can call *everything* in terms of the one base unit, the "klug"!  Maybe in the future we could simplify even further by deprecating or obsoleting the gram.  Or would it be advantageous to rename to "klug" and deprecate the "gram" at the same time?
 
 Advantages:
 
