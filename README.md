@@ -50,7 +50,7 @@ History
 
 Web Sites
 
-1. http://http://metricationmatters.com
+1. http://metricationmatters.com
 1. http://www.reddit.com/r/Metric
 1. https://themetricmaven.com/
 1. https://milebehind.wordpress.com/
