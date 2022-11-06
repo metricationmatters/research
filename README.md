@@ -27,7 +27,7 @@ Cost of NOT Metricating
 Changes to the SI
 
 1. [Evolving SI](research/Brown_2020_Metrologia_57_023001.pdf)
-1. [Something](research/Brown_2022_Metrologia_59_062101.pdf)
+1. [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf)
 
 References
