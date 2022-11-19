@@ -18,7 +18,9 @@ Reports
 Proposals
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
+1. [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
 1. [Prefix Problems](proposals/ProposedPrefixes.md)
+1. [New unit names for area and volume](proposals/AreaAndVolume.txt)
 
 Cost of NOT Metricating
 
