@@ -43,6 +43,8 @@ Magnifying Prefixes
 
 | Value            | Prefix Name | Prefix Symbol | Notes                 |
 | :---             | :---        | :---          | :---                  |
+| 10<sup>30</sup>  | Quetta      | Q             |                       |
+| 10<sup>27</sup>  | Ronna       | R             |                       |
 | 10<sup>24</sup>  | Yotta       | Y             | Size of observable universe in meters. |
 | 10<sup>21</sup>  | Zetta       | Z             |                       |
 | 10<sup>18</sup>  | Exa         | E             |                       |
@@ -64,6 +66,8 @@ Minifying Prefixes
 | 10<sup>-18</sup> | atto        | a             |                       |
 | 10<sup>-21</sup> | zepto       | z             |                       |
 | 10<sup>-24</sup> | yocto       | y             | So small it is rarely used. |
+| 10<sup>-27</sup> | ronto       | r             |                       |
+| 10<sup>-30</sup> | quecto      | q             |                       |
 
 Deprecate and change:
 
