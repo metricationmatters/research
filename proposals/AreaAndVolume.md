@@ -61,6 +61,6 @@ Volume
 | 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol   | 1 L    |
 | 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 micro cubic meter  | 1 uvol   | 1 mL   |
 | 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nano cubic meter   | 1 nvol   | 1 uL   |
-| 100 cubic micrometer | 100 um<sup>3</sup>  | 0.000 000 000 001         | 100 picc cubic meter | 1 pvol   | 1 nL   |
+| 100 cubic micrometer | 100 um<sup>3</sup>  | 0.000 000 000 001         | 100 pico cubic meter | 1 pvol   | 1 nL   |
 | 10 cubic micrometer  | 10 um<sup>3</sup>   | 0.000 000 000 000 001     | 10 femto cubic meter | 1 fvol   | 1 pL   |
 | 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 10 atto cubic meter  | 1 avol   | 1 fL   |
