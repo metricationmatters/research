@@ -41,6 +41,13 @@ Area
 | 1 milli square meter |          |      |      |
 
 Volume
-| Name                 | Notation | Col3 | Col4 |
-| :---                 | :---     | :--- | :--- |
-| 1 cubic meter        |          |      |      |
+| Name                 | Notation          | Col3 | Col4 |
+| :---                 | :---              | :--- | :--- |
+| 1 cubic kilameter    | 1 km<sup>3</sup>  |      |      |
+| 1 cubic hectameter   | 1 hm<sup>3</sup>  |      |      |
+| 1 cubic decameter    | 1 dam<sup>3</sup> |      |      |
+| 1 cubic meter        | 1 m<sup>3</sup>   |      |      |
+| 1 cubic decometer    | 1 dm<sup>3</sup>  |      |      |
+| 1 cubic centometer   | 1 cm<sup>3</sup>  |      |      |
+| 1 cubic millometer   | 1 mm<sup>3>/sup>  |      |      |
+| 1 milli cubic meter  | 1                 |      |      |
