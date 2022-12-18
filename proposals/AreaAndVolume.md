@@ -51,7 +51,7 @@ Volume
 ======
 | Name                 | Notation          | Multiplier        | Alternate name          | New unit | New  |
 | :---                 | :---              | :---              | :---                    | :---     | :--- |
-| 1 cubic kilameter    | 1 km<sup>3</sup>  | 1 000 000 000     | 1 giga cubic meter      | 1 Kvol   | 1 TL |
+| 1 cubic kilameter    | 1 km<sup>3</sup>  | 1 000 000 000     | 1 giga cubic meter      | 1 Gvol   | 1 TL |
 | 1 cubic hectameter   | 1 hm<sup>3</sup>  | 1 000 000         | 1 mega cubic meter      | 1 Mvol   | 1 GL |
 | 1 cubic decameter    | 1 dam<sup>3</sup> | 1 000             | 1 kila cubic meter      | 1 Kvol   | 1 ML |
 | 1 cubic meter        | 1 m<sup>3</sup>   | 1                 |                         | 1 vol    | 1 KL |
