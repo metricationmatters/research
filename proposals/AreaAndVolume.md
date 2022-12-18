@@ -41,7 +41,7 @@ Area
 | Name                 | Notation           | Multiplier     | Alternate name | New unit  |
 | :---                 | :---               | :--            | :---           | :---      |
 | 100 square kilameter | 100 Km<sup>2</sup> | 10 000 000 000 | 10 gigaquad    | 10 Gquad  |
-| 10 square kilameter  | 10 Km<sup>2</sup>  | 100 000 000    | 10 megaquad    | 100 Mquad |
+| 10 square kilameter  | 10 Km<sup>2</sup>  | 100 000 000    | 100 megaquad   | 100 Mquad |
 | 1 square kilameter   | 1 Km<sup>2</sup>   | 1 000 000      | 1 megaquad     | 1 Mquad   |
 | 1 square hectameter  | 1 Hm<sup>2</sup>   | 10 000         | 10 kilaquad    | 10 Kquad  |
 | 1 square decameter   | 1 Dam<sup>2</sup>  | 100            | 1 hectaquad    | 1 Hquad   |
