@@ -38,9 +38,8 @@ Latin word for volume: liber (to close to liter, would be confused and indistinc
 
 Area
 ====
-
 | Name                 | Notation          | Multiplier | Alternate name | New unit  |
-| :---                 | :---              | :--        | :---           |           |
+| :---                 | :---              | :--        | :---           | :---      |
 | 1 square kilameter   | 1 km<sup>2</sup>  | 1 000 000  | 1 megaquad     | 1 Mquad   |
 | 1 square hectameter  | 1 hm<sup>2</sup>  | 10 000     | 10 kilaquad    | 1 Kquad   |
 | 1 square decameter   | 1 dam<sup>2</sup> | 100        | 1 hectaquad    | 1 Hquad   |
