@@ -38,17 +38,19 @@ Latin word for volume: liber (to close to liter, would be confused and indistinc
 
 Area
 ====
-| Name                 | Notation           | Multiplier     | Alternate name | New unit  |
-| :---                 | :---               | :--            | :---           | :---      |
-| 100 square kilameter | 100 Km<sup>2</sup> | 10 000 000 000 | 10 gigaquad    | 10 Gquad  |
-| 10 square kilameter  | 10 Km<sup>2</sup>  | 100 000 000    | 100 megaquad   | 100 Mquad |
-| 1 square kilameter   | 1 Km<sup>2</sup>   | 1 000 000      | 1 megaquad     | 1 Mquad   |
-| 1 square hectameter  | 1 Hm<sup>2</sup>   | 10 000         | 10 kilaquad    | 10 Kquad  |
-| 1 square decameter   | 1 Dam<sup>2</sup>  | 100            | 1 hectaquad    | 1 Hquad   |
-| 1 square meter       | 1 m<sup>2</sup>    | 1              |                | 1 quad    |
-| 1 square decometer   | 1 dm<sup>2</sup>   | 0.01           | 1 centoquad    | 1 cquad   |
-| 1 square centometer  | 1 cm<sup>2</sup>   | 0.000 1        | 100 mircoquad  | 100 uquad |
-| 1 square millometer  | 1 mm<sup>2</sup>   | 0.000 001      | 1 microquad    | 1 uquad   |
+| Name                  | Notation           | Multiplier      | Alternate name | New unit  |
+| :---                  | :---               | :--             | :---           | :---      |
+| 100 square kilameter  | 100 Km<sup>2</sup> | 10 000 000 000  | 10 gigaquad    | 10 Gquad  |
+| 10 square kilameter   | 10 Km<sup>2</sup>  | 100 000 000     | 100 megaquad   | 100 Mquad |
+| 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000       | 1 megaquad     | 1 Mquad   |
+| 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000          | 10 kilaquad    | 10 Kquad  |
+| 1 square decameter    | 1 Dam<sup>2</sup>  | 100             | 1 hectaquad    | 1 Hquad   |
+| 1 square meter        | 1 m<sup>2</sup>    | 1               |                | 1 quad    |
+| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01            | 1 centoquad    | 1 cquad   |
+| 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1         | 100 mircoquad  | 100 uquad |
+| 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001       | 1 microquad    | 1 uquad   |
+| 100 square micrometer | 100 um<sup>2</sup> | 0.000 000 01    | 10 nanooquad   | 10 nquad  |
+| 10 square micrometer  | 10 um<sup>2</sup>  | 0.000 000 000 1 | 1 nanooquad    | 1 nquad   |
 
 Volume
 ======
