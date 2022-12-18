@@ -62,7 +62,7 @@ Volume
 | 100 cubic kilameter  | 100 Km<sup>3</sup>  | 1 000 000 000 000 000     | 1 peta cubic meter   | 1 Pvol   | 1 EL   |
 | 10 cubic kilameter   | 10 Km<sup>3</sup>   | 1 000 000 000 000         | 1 tera cubic meter   | 1 Tvol   | 1 PL   |
 | 1 cubic kilameter    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 giga cubic meter   | 1 Gvol   | 1 TL   |
-| 100 cubic ameter     | 100 m<sup>3</sup>   | 1 000 000                 | 1 mega cubic meter   | 1 Mvol   | 1 GL   |
+| 100 cubic meter      | 100 m<sup>3</sup>   | 1 000 000                 | 1 mega cubic meter   | 1 Mvol   | 1 GL   |
 | 10 cubic meter       | 10 m<sup>3</sup>    | 1 000                     | 1 kila cubic meter   | 1 Kvol   | 1 ML   |
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         |                      | 1 vol    | 1 KL   |
 | 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol   | 1 L    |
