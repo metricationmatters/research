@@ -2,7 +2,9 @@ Problem Summary:
 
 How to indicate prefixes for base unit of area and volume?
 
-I don't think 1 square millometer is the same as 1 millometer square.
+1 square millometer (1 mm<sup>2</sup>) is not the same as 1 millometer square.
+
+1 cubic millometer (1 mm<sup>3</sup>) is not the same as 1 millometer cube.
 
 Area
 ====
@@ -37,15 +39,15 @@ Latin word for volume: liber (to close to liter, would be confused and indistinc
 Area
 ====
 
-| Name                 | Notation          | Multiplier    | Col4 |
-| :---                 | :---              | :--           | :--- |
-| 1 square kilameter   | 1 km<sup>2</sup>  | 1 000 000     |      |
-| 1 square hectameter  | 1 hm<sup>2</sup>  | 10 000        |      |
-| 1 square decameter   | 1 dam<sup>2</sup> | 100           |      |
-| 1 square meter       | 1 m<sup>2</sup>   | 1             |      |
-| 1 square decometer   | 1 dm<sup>2</sup>  | 0.01          |      |
-| 1 square centometer  | 1 cm<sup>2</sup>  | 0.000 1       |      |
-| 1 square millometer  | 1 mm<sup>2</sup>  | 0.000 000 001 |      |
+| Name                 | Notation          | Multiplier | Alternate name | New unit  |
+| :---                 | :---              | :--        | :---           |           |
+| 1 square kilameter   | 1 km<sup>2</sup>  | 1 000 000  | 1 megaquad     | 1 Mquad   |
+| 1 square hectameter  | 1 hm<sup>2</sup>  | 10 000     | 10 kilaquad    | 1 Kquad   |
+| 1 square decameter   | 1 dam<sup>2</sup> | 100        | 1 hectaquad    | 1 Hquad   |
+| 1 square meter       | 1 m<sup>2</sup>   | 1          |                | 1 quad    |
+| 1 square decometer   | 1 dm<sup>2</sup>  | 0.01       | 1 centoquad    | 1 cquad   |
+| 1 square centometer  | 1 cm<sup>2</sup>  | 0.000 1    | 100 mircoquad  | 100 uquad |
+| 1 square millometer  | 1 mm<sup>2</sup>  | 0.000 001  | 1 microquad    | 1 uquad   |
 
 Volume
 ======
