@@ -5,6 +5,7 @@ Issues
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
 1. [Prefix Problems](proposals/Prefixes.md)
+1. [Area and Volume](proposals/AreaAndVolume.md)
 1. Circular dependencies
 1. Unclear definitions
 
