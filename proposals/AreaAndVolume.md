@@ -40,9 +40,9 @@ Area
 ====
 | Name                 | Notation          | Multiplier | Alternate name | New unit  |
 | :---                 | :---              | :--        | :---           | :---      |
-| 1 square kilameter   | 1 km<sup>2</sup>  | 1 000 000  | 1 megaquad     | 1 Mquad   |
-| 1 square hectameter  | 1 hm<sup>2</sup>  | 10 000     | 10 kilaquad    | 1 Kquad   |
-| 1 square decameter   | 1 dam<sup>2</sup> | 100        | 1 hectaquad    | 1 Hquad   |
+| 1 square kilameter   | 1 Km<sup>2</sup>  | 1 000 000  | 1 megaquad     | 1 Mquad   |
+| 1 square hectameter  | 1 Hm<sup>2</sup>  | 10 000     | 10 kilaquad    | 1 Kquad   |
+| 1 square decameter   | 1 Dam<sup>2</sup> | 100        | 1 hectaquad    | 1 Hquad   |
 | 1 square meter       | 1 m<sup>2</sup>   | 1          |                | 1 quad    |
 | 1 square decometer   | 1 dm<sup>2</sup>  | 0.01       | 1 centoquad    | 1 cquad   |
 | 1 square centometer  | 1 cm<sup>2</sup>  | 0.000 1    | 100 mircoquad  | 100 uquad |
