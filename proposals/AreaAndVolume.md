@@ -44,11 +44,11 @@ Area
 | 100 square kilameter  | 100 Km<sup>2</sup> | 10 000 000 000    | 10 gigaquad    | 10 Gquad  |
 | 10 square kilameter   | 10 Km<sup>2</sup>  | 100 000 000       | 100 megaquad   | 100 Mquad |
 | 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad   |
-| 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kilaquad    | 10 Kquad  |
-| 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 1 hectaquad    | 1 Hquad   |
+| 100 square meter      | 100 m<sup>2</sup>  | 10 000            | 10 kilaquad    | 10 Kquad  |
+| 10 square meter       | 10 m<sup>2</sup>   | 100               | 1 hectaquad    | 1 Hquad   |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 |                | 1 quad    |
-| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 1 centoquad    | 1 cquad   |
-| 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad |
+| 100 square milometer  | 100 mm<sup>2</sup> | 0.01              | 10 milooquad   | 10 mquad  |
+| 10 square miloometer  | 10 mm<sup>2</sup>  | 0.000 1           | 100 mircoquad  | 100 uquad |
 | 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad   |
 | 100 square micrometer | 100 um<sup>2</sup> | 0.000 000 01      | 10 nanooquad   | 10 nquad  |
 | 10 square micrometer  | 10 um<sup>2</sup>  | 0.000 000 000 1   | 100 picooquad  | 100 pquad |
@@ -62,8 +62,8 @@ Volume
 | 100 cubic kilameter  | 100 Km<sup>3</sup>  | 1 000 000 000 000 000     | 1 peta cubic meter   | 1 Pvol   | 1 EL   |
 | 10 cubic kilameter   | 10 Km<sup>3</sup>   | 1 000 000 000 000         | 1 tera cubic meter   | 1 Tvol   | 1 PL   |
 | 1 cubic kilameter    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 giga cubic meter   | 1 Gvol   | 1 TL   |
-| 1 cubic hectameter   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 mega cubic meter   | 1 Mvol   | 1 GL   |
-| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kila cubic meter   | 1 Kvol   | 1 ML   |
+| 100 cubic ameter     | 100 m<sup>3</sup>   | 1 000 000                 | 1 mega cubic meter   | 1 Mvol   | 1 GL   |
+| 10 cubic meter       | 10 m<sup>3</sup>    | 1 000                     | 1 kila cubic meter   | 1 Kvol   | 1 ML   |
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         |                      | 1 vol    | 1 KL   |
 | 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol   | 1 L    |
 | 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 micro cubic meter  | 1 uvol   | 1 mL   |
