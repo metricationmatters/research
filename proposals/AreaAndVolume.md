@@ -55,7 +55,7 @@ Volume
 | 1 cubic hectameter   | 1 hm<sup>3</sup>  | 1 000 000         | 1 mega cubic meter      |          |      |
 | 1 cubic decameter    | 1 dam<sup>3</sup> | 1 000             | 1 kila cubic meter      | 1 kvol   | 1 ML |
 | 1 cubic meter        | 1 m<sup>3</sup>   | 1                 |                         | 1 vol    | 1 KL |
-| 1 cubic decometer    | 1 dm<sup>3</sup>  | 0.001             | 100 milli cubic meter   | 1 mvol   | 1 L  |
-| 1 cubic centometer   | 1 cm<sup>3</sup>  | 0.000 001         | 10 milli cubic meter    | 1 nvol   | 1 mL |
-| 1 cubic millometer   | 1 mm<sup>3</sup>  | 0.000 000 001     | 1 milli cubic meter     | 1 pvol   | 1 nL |
+| 1 cubic decometer    | 1 dm<sup>3</sup>  | 0.001             | 1 millo cubic meter     | 1 mvol   | 1 L  |
+| 1 cubic centometer   | 1 cm<sup>3</sup>  | 0.000 001         | 1 micro cubic meter     | 1 nvol   | 1 mL |
+| 1 cubic millometer   | 1 mm<sup>3</sup>  | 0.000 000 001     | 1 nanoi cubic meter     | 1 pvol   | 1 nL |
 | 1 cubic nanometer    | 1 nm<sup>3</sup>  | 0.000 000 000 001 |                         |          |      |
