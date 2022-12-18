@@ -39,7 +39,7 @@ Area
 
 | Name                 | Notation          | Multiplier    | Col4 |
 | :---                 | :---              | :--           | :--- |
-| 1 square kilameter   | 1 dam<sup>2</sup> | 10 000 000    |      |
+| 1 square kilameter   | 1 km<sup>2</sup>  | 0 000 000     |      |
 | 1 square hectameter  | 1 dam<sup>2</sup> | 10 000        |      |
 | 1 square decameter   | 1 dam<sup>2</sup> | 100           |      |
 | 1 square meter       | 1 m<sup>2</sup>   | 1             |      |
