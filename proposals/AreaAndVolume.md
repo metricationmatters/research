@@ -48,7 +48,7 @@ Area
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 1 hectaquad    | 1 Hquad   |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 |                | 1 quad    |
 | 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 milooquad   | 10 mquad  |
-| 1 square centommeter  | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad |
+| 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad |
 | 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad   |
 | 100 square micrometer | 100 um<sup>2</sup> | 0.000 000 01      | 10 nanooquad   | 10 nquad  |
 | 10 square micrometer  | 10 um<sup>2</sup>  | 0.000 000 000 1   | 100 picooquad  | 100 pquad |
