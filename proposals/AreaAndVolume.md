@@ -45,10 +45,10 @@ Area
 | 10 square kilameter   | 10 Km<sup>2</sup>  | 100 000 000       | 100 megaquad   | 100 Mquad |
 | 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad   |
 | 100 square meter      | 100 m<sup>2</sup>  | 10 000            | 10 kilaquad    | 10 Kquad  |
-| 10 square meter       | 10 m<sup>2</sup>   | 100               | 1 hectaquad    | 1 Hquad   |
-| 1 square meter        | 1 m<sup>2</sup>    | 1                 |                | 1 quad    |
-| 100 square milometer  | 100 mm<sup>2</sup> | 0.01              | 10 milooquad   | 10 mquad  |
-| 10 square miloometer  | 10 mm<sup>2</sup>  | 0.000 1           | 100 mircoquad  | 100 uquad |
+| 1 square hectameter   | 1 Hm<sup>2</sup>   | 100               | 1 hectaquad    | 1 Hquad   |
+| 1 square meter        | 1 Dam<sup>2</sup>  | 1                 |                | 1 quad    |
+| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 milooquad   | 10 mquad  |
+| 1 square centommeter  | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad |
 | 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad   |
 | 100 square micrometer | 100 um<sup>2</sup> | 0.000 000 01      | 10 nanooquad   | 10 nquad  |
 | 10 square micrometer  | 10 um<sup>2</sup>  | 0.000 000 000 1   | 100 picooquad  | 100 pquad |
