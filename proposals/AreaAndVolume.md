@@ -2,31 +2,21 @@ Problem Summary:
 
 How to indicate prefixes for base unit of area and volume?
 
-1 square millometer (1 mm<sup>2</sup>) is not the same as 1 millometer square.
+1 square millometer (1 mm<sup>2</sup>) is not the same as 1 millo square meter.
 
-1 cubic millometer (1 mm<sup>3</sup>) is not the same as 1 millometer cube.
+1 cubic millometer (1 mm<sup>3</sup>) is not the same as 1 millo cubic meter.
 
-Area
-====
+How do you "say" square meter and cubic meter with prefixes?
 
-1 square meter = 1 m^2 = 1 nare (neware?)
-1 mnare = 1 Kmm^2 (Kmm^2 is not an allowed way to say it.)
-1 unare = 1 mm^2 (1 square millometer or 1 millometer square?)
+I've not heard people talk about the proper way to say square meter and cubic meter with prefixes.
 
-Volume
-======
+Is it "1 tera square meter"?
 
-1 cubic meter = 1 m^3 = 1 Vol
-1 mVol = 1 L
-1 uVol = 1 mL
+Is it "1 nano cubic meter"?
 
-1 1000 L      = 1 Vol
-1 1000 mL     = 1 L
+If so, I think it would be better to give the square meter and the cubic meter
+a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say.
 
-1 cubic meters = 1 Gmm^3 = 1 Vol (Gmm^3 is not allowed)
-1 mVol         = 1 Mmm^3         (Mmm^3 is not allowed)
-1 uVol         = 1 Kmm^3         (Kmm^3 is not allowed)
-1 nVol         = 1 mm^3
 
 Possible names for base units of area and volume:
 
