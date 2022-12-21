@@ -1,6 +1,6 @@
 Problem Summary:
 
-How to indicate prefixes for base unit of area and volume?
+What is the proper way to indicate prefixes for base unit of area and volume?
 
 1 square millometer (1 mm<sup>2</sup>) is not the same as 1 millo square meter.
 
