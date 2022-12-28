@@ -32,19 +32,22 @@ Area
 | Name                  | Notation           | Multiplier        | Alternate name | New unit  |
 | :---                  | :---               | :--               | :---           | :---      |
 | 1 square megameter    | 1 Mm<sup>2</sup>   | 1 000 000 000 000 | 1 teraquad     | 1 Tquad   |
-|                       |                    | 10 000 000 000    | 10 gigaquad    | 10 Gquad  |
-|                       |                    | 100 000 000       | 100 megaquad   | 100 Mquad |
+| (no name)             |                    | 10 000 000 000    | 10 gigaquad    | 10 Gquad  |
+| (no name)             |                    | 100 000 000       | 100 megaquad   | 100 Mquad |
 | 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad   |
 | 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kilaquad    | 10 Kquad  |
-|                       |                    | 1000              | 1 kilaquad     | 1 Kquad   |
+| (no name)             |                    | 1000              | 1 kilaquad     | 1 Kquad   |
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 1 hectaquad    | 1 Hquad   |
-|                       | 10 m<sup>2</sup>   | 10                | 10 decaquad    | 1 Dquad   |
+| (no name)             | 10 m<sup>2</sup>   | 10                | 10 decaquad    | 1 Dquad   |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 |                | 1 quad    |
-| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 milooquad   | 10 mquad  |
+| (no name)             |                    | 0.1               | 100 miloquad   | 100 mquad |
+| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 miloquad    | 10 mquad  |
+| (no name)             |                    | 0.001             | 1 miloquad     | 1 mquad   |
 | 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad |
 | 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad   |
-|                       |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad  |
-|                       |                    | 0.000 000 000 1   | 100 picooquad  | 100 pquad |
+| (no name)             |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad |
+| (no name)             |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad  |
+| (no name)             |                    | 0.000 000 000 1   | 100 picooquad  | 100 pquad |
 | 1 square micrometer   | 1 um<sup>2</sup>   | 0.000 000 000 001 | 1 picoquad     | 1 pquad   |
 
 Volume
