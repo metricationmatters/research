@@ -40,14 +40,8 @@ Possible Retraction
 
 If someone can tell me the proper way to say and notate the blank entries in the tables below, I might retract this proposal.
 
-Discussion
-==========
-
-Possible names for base units of area and volume:
-
-
-Possible names for Units
-========================
+Discussion - Possible names for base units of area and volume
+=============================================================
 
 Unfortunately, the obvious choice for area is the "are", but it and the "hectare" are previously used and currently used, respectively.
 However they are wierdly sized units and "are" would not be suitable for a base unit unless we redefine the "are" and the "hectare".
