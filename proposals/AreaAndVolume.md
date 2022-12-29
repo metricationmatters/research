@@ -19,7 +19,7 @@ a name.  "square meter" and "cubic meter" is competely accurate but more difficu
 
 Advantages:
 
-1. Gives a name to the unit, names are powerful and simplfy the notation and being able to say it.
+1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplfy the notation and being able to say it.
 2. Single syllable.
 3. Gives names to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
 
@@ -38,6 +38,9 @@ Latin word for square: quad
 
 Latin word for volume: liber (to close to liter, would be confused and indistinct over bad communication lines)
 
+At the moment I'm going to suggest "1 quad = 1 square meter" and "1 vol = 1 cubic meter".
+
+I don't care about the names, they could be anything but would be handy to have them be one syllable.
 
 Area
 ====
