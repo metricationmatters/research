@@ -1,11 +1,11 @@
 
 Research on SI Metric System
 
-Issues
+Issues and Proposals
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
-1. [Prefix Problems](proposals/Prefixes.md)
 1. [Area and Volume](proposals/AreaAndVolume.md)
+1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf)
 1. Circular dependencies
 1. Unclear definitions
@@ -13,20 +13,14 @@ Issues
 
 Reports
 
+1. [Cost of NOT Metricating](research/CostOfNonMetrication.pdf)
 1. [Mile Behind Final Report](reports/MileBehind-sst-final-3.pdf)
 
 [Metric Business Card](personal/MetricBusinessCard-v1.pdf)
 
-Proposals
+Miscellaneous articles
 
-1. [Rename the Kilogram](proposals/RenameKilogram.txt)
 1. [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
-1. [Prefix Problems](proposals/ProposedPrefixes.md)
-1. [New unit names for area and volume](proposals/AreaAndVolume.txt)
-
-Cost of NOT Metricating
-
-[Cost of NOT Metricating](research/CostOfNonMetrication.pdf)
 
 Problem with and changes to the SI
 
