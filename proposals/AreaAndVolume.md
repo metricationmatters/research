@@ -6,17 +6,29 @@ What is the proper way to indicate prefixes for base unit of area and volume?
 
 1 cubic millometer (1 mm<sup>3</sup>) is not the same as 1 millo cubic meter.
 
-How do you "say" square meter and cubic meter with prefixes?
+How do you "say" square meter and cubic meter with numbers and prefixes?
 
-I've not heard people talk about the proper way to say square meter and cubic meter with prefixes.
+I've not heard people talk about the proper way to say square meter and cubic meter with numbers and prefixes.
 
 Is it "1 tera square meter"?
 
 Is it "1 nano cubic meter"?
 
 If so, I think it would be better to give the square meter and the cubic meter
-a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say.
+a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.
 
+Advantages:
+
+1. Gives a name to the unit, names are powerful and simplfy the notation and being able to say it.
+2. Single syllable.
+3. Gives names to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
+
+
+Disadvantages
+=============
+
+1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc).
+2. Other disavantages?
 
 Possible names for base units of area and volume:
 
