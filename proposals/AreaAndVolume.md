@@ -34,7 +34,23 @@ Disadvantages
 1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc).
 2. Other disavantages?
 
+Possible Retraction
+===================
+
+If someone can tell me the proper way to say and notate the blank entries in the tables below, I might retract this proposal.
+
+Discussion
+==========
+
 Possible names for base units of area and volume:
+
+
+Possible names for Units
+========================
+
+Unfortunately, the obvious choice for area is the "are" but that is already used in the previous iterations of the metric system and currently "hectare" is still in use although it is a weirdly sized unit.
+
+If we could use the name "are = 1 square meter" and redefine the "hectare" (which I doubt is easily doable) then that could be used for the base unit of area.
 
 Greek word for square: tetra
 
@@ -44,7 +60,7 @@ Latin word for volume: liber (to close to liter, would be confused and indistinc
 
 At the moment I'm going to suggest "1 quad = 1 square meter" and "1 vol = 1 cubic meter".
 
-I don't care about the names, they could be anything but would be handy to have them be one syllable.
+I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
 Area
 ====
@@ -80,20 +96,34 @@ Area
 
 Volume
 ======
-| Name                 | Notation            | Multiplier                | New name             | New unit | Liter  |
-| :---                 | :---                | :---                      | :---                 | :---     | :---   |
-| ...                  | ...                 | ...                       | ...                  | ...      | ...    |
-| 1 cubic megameter    | 1 Mm<sup>3</sup>    | 1 000 000 000 000 000 000 | 1 exa cubic meter    | 1 Evol   | 1 ZL   |
-|                      |                     | 1 000 000 000 000 000     | 1 peta cubic meter   | 1 Pvol   | 1 EL   |
-|                      |                     | 1 000 000 000 000         | 1 tera cubic meter   | 1 Tvol   | 1 PL   |
-| 1 cubic kilameter    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 giga cubic meter   | 1 Gvol   | 1 TL   |
-| 1 cubic hectameter   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 mega cubic meter   | 1 Mvol   | 1 GL   |
-| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kila cubic meter   | 1 Kvol   | 1 ML   |
-| 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 cubic meter        | 1 vol    | 1 KL   |
-| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol   | 1 L    |
-| 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 micro cubic meter  | 1 uvol   | 1 mL   |
-| 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nano cubic meter   | 1 nvol   | 1 uL   |
-|                      |                     | 0.000 000 000 001         | 100 pico cubic meter | 1 pvol   | 1 nL   |
-|                      |                     | 0.000 000 000 000 001     | 10 femto cubic meter | 1 fvol   | 1 pL   |
-| 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 10 atto cubic meter  | 1 avol   | 1 fL   |
-| ...                  | ...                 | ...                       | ...                  | ...      | ...    |
+| Name                 | Notation            | Multiplier                | New name             | New notation | Liter  |
+| :---                 | :---                | :---                      | :---                 | :---         | :---   |
+| ...                  | ...                 | ...                       | ...                  | ...          | ...    |
+| 1 cubic megameter    | 1 Mm<sup>3</sup>    | 1 000 000 000 000 000 000 | 1 exavol             | 1 Evol       | 1 ZL   |
+|                      |                     | 100 000 000 000 000 000   | 100 petavol          | 100 Pvol     | 100 EL |
+|                      |                     | 10 000 000 000 000 000    | 10 petavol           | 10 Pvol      | 10 EL  |
+|                      |                     | 1 000 000 000 000 000     | 1 petavol            | 1 Pvol       | 1 EL   |
+|                      |                     | 100 000 000 000 000       | 100 teravol          | 100 Tvol     | 100 PL |
+|                      |                     | 10 000 000 000 000        | 10 teravol           | 10 Tvol      | 10 PL  |
+|                      |                     | 1 000 000 000 000         | 1 teravol            | 1 Tvol       | 1 PL   |
+|                      |                     | 100 000 000 000           | 100 gigavol          | 100 Gvol     | 100 TL |
+|                      |                     | 10 000 000 000            | 10 gigavol           | 10 Gvol      | 10 TL  |
+| 1 cubic kilameter    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
+|                      |                     | 100 000 000               | 100 megavol          | 100 Mvol     | 100 TL |
+|                      |                     | 10 000 000                | 10 megavol           | 10 Mvol      | 10 TL  |
+| 1 cubic hectameter   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
+|                      |                     | 100 000                   | 100 kilavol          | 100 Kvol     | 100 ML |
+|                      |                     | 10 000                    | 10 kilavol           | 10 Kvol      | 10 ML  |
+| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilavol            | 1 Kvol       | 1 ML   |
+|                      | 100 m<sup>3</sup>   | 100                       | 100 vol              | 100 vol      | 100 KL |
+|                      | 10 m<sup>3</sup>    | 10                        | 10 vol               | 10 vol       | 10 KL  |
+| 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 KL   |
+|                      |                     | 0.1                       | 100 millovol         | 100 mvol     | 100 L  |
+|                      |                     | 0.01                      | 10 millovol          | 10 mvol      | 10 L   |
+| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol       | 1 L    |
+| 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 micro cubic meter  | 1 uvol       | 1 mL   |
+| 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nano cubic meter   | 1 nvol       | 1 uL   |
+|                      |                     | 0.000 000 000 001         | 100 pico cubic meter | 1 pvol       | 1 nL   |
+|                      |                     | 0.000 000 000 000 001     | 10 femto cubic meter | 1 fvol       | 1 pL   |
+| 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 10 atto cubic meter  | 1 avol       | 1 fL   |
+| ...                  | ...                 | ...                       | ...                  | ...          | ...    |
