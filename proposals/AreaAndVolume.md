@@ -1,5 +1,11 @@
 SI System Issue #2
 
+Can the "SI system of measurement" be improved from its current definition?
+
+How can those improvements be accomplished?
+
+I have several issues with the SI system as currently defined.
+
 Problem
 =======
 
