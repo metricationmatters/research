@@ -49,9 +49,14 @@ Possible names for base units of area and volume:
 Possible names for Units
 ========================
 
-Unfortunately, the obvious choice for area is the "are" but that is already used in the previous iterations of the metric system and currently "hectare" is still in use although it is a weirdly sized unit.
+Unfortunately, the obvious choice for area is the "are", but it and the "hectare" are previously used and currently used, respectively.
+However they are wierdly sized units and "are" would not be suitable for a base unit unless we redefine the "are" and the "hectare".
 
-If we could use the name "are = 1 square meter" and redefine the "hectare" (which I doubt is easily doable) then that could be used for the base unit of area.
+1 are = 100 m<sup>2</sup> but is no longer in (common) use.
+
+1 hectare = 100 are = 10 000 m<sup>2</sup>
+
+If we could redefine the name "are = 1 square meter" and redefine the "hectare" (which I doubt is easily doable) then the "are" could be used for the base unit of area.
 
 Greek word for square: tetra
 
