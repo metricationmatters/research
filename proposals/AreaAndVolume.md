@@ -43,7 +43,7 @@ If someone can tell me the proper way to say and notate the blank entries in the
 Discussion - Possible names for base units of area and volume
 =============================================================
 
-Unfortunately, the obvious choice for area is the "are", but it and the "hectare" are previously used and currently used, respectively.
+Unfortunately, while the obvious choice for area is the "are", it and the "hectare" are previously used and currently used, respectively.
 However they are wierdly sized units and "are" would not be suitable for a base unit unless we redefine the "are" and the "hectare".
 
 1 are = 100 m<sup>2</sup> but is no longer in (common) use.
