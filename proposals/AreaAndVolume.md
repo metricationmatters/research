@@ -68,6 +68,9 @@ At the moment I'm going to suggest "1 quad = 1 square meter" and "1 vol = 1 cubi
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
+Solution example use tables
+===========================
+
 The following table illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
 
 Area
