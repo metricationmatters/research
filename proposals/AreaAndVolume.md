@@ -33,8 +33,11 @@ Area
 | :---                  | :---               | :--               | :---           | :---          |
 | ...                   | ...                | ...               | ...            | ...           |
 | 1 square megameter    | 1 Mm<sup>2</sup>   | 1 000 000 000 000 | 1 teraquad     | 1 Tquad       |
+|                       |                    | 100 000 000 000   | 100 gigaquad   | 100 Gquad     |
 |                       |                    | 10 000 000 000    | 10 gigaquad    | 10 Gquad      |
+|                       |                    | 1 000 000 000     | 1 gigaquad     | 1 Gquad       |
 |                       |                    | 100 000 000       | 100 megaquad   | 100 Mquad     |
+|                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
 | 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
 |                       |                    | 100 000           | 100 kilaquad   | 100 Kquad     |
 | 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kilaquad    | 10 Kquad      |
@@ -52,6 +55,7 @@ Area
 |                       |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad      |
 |                       |                    | 0.000 000 001     | 1 nanoquad     | 1 nquad       |
 |                       |                    | 0.000 000 000 1   | 100 picooquad  | 100 pquad     |
+|                       |                    | 0.000 000 000 01  | 10 picoquad    | 10 pquad      |
 | 1 square micrometer   | 1 um<sup>2</sup>   | 0.000 000 000 001 | 1 picoquad     | 1 pquad       |
 | ...                   | ...                | ...               | ...            | ...           |
 
