@@ -24,14 +24,15 @@ a name.  "square meter" and "cubic meter" is competely accurate but more difficu
 Advantages:
 
 1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplfy the notation and being able to say it.
-2. Single syllable.
-3. Gives names to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
+2. Follows the normal SI rules for unit names and notation.
+3. Single syllable.
+4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
 
 
 Disadvantages
 =============
 
-1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc).
+1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
 2. Other disavantages?
 
 Possible Retraction
@@ -120,10 +121,20 @@ Volume
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 KL   |
 |                      |                     | 0.1                       | 100 millovol         | 100 mvol     | 100 L  |
 |                      |                     | 0.01                      | 10 millovol          | 10 mvol      | 10 L   |
-| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millo cubic meter  | 1 mvol       | 1 L    |
-| 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 micro cubic meter  | 1 uvol       | 1 mL   |
-| 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nano cubic meter   | 1 nvol       | 1 uL   |
-|                      |                     | 0.000 000 000 001         | 100 pico cubic meter | 1 pvol       | 1 nL   |
-|                      |                     | 0.000 000 000 000 001     | 10 femto cubic meter | 1 fvol       | 1 pL   |
-| 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 10 atto cubic meter  | 1 avol       | 1 fL   |
+| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millovol           | 1 mvol       | 1 L    |
+|                      |                     | 0.000 1                   | 100 microvol         | 100 uvol     | 100 mL |
+|                      |                     | 0.000 01                  | 10 microvol          | 10 uvol      | 10 mL  |
+| 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 microvol           | 1 uvol       | 1 mL   |
+|                      |                     | 0.000 000 1               | 100 nanovol          | 100 nvol     | 100 uL |
+|                      |                     | 0.000 000 01              | 10 nanovol           | 10 nvol      | 10 uL  |
+| 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nanovol            | 1 nvol       | 1 uL   |
+|                      |                     | 0.000 000 000 1           | 100 picovol          | 100 pvol     | 100 nL |
+|                      |                     | 0.000 000 000 01          | 10 picovol           | 10 pvol      | 10 nL  |
+|                      |                     | 0.000 000 000 001         | 1 picovol            | 1 pvol       | 1 nL   |
+|                      |                     | 0.000 000 000 000 1       | 100 femtovol         | 100 fvol     | 100 pL |
+|                      |                     | 0.000 000 000 000 01      | 10 femtovol          | 10 fvol      | 10 pL  |
+|                      |                     | 0.000 000 000 000 001     | 1 femtovol           | 1 fvol       | 1 pL   |
+|                      |                     | 0.000 000 000 000 000 1   | 100 attovol          | 100 avol     | 100 fL |
+|                      |                     | 0.000 000 000 000 000 01  | 10 attovol           | 10 avol      | 10 fL  |
+| 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 1 attovol            | 1 avol       | 1 fL   |
 | ...                  | ...                 | ...                       | ...                  | ...          | ...    |
