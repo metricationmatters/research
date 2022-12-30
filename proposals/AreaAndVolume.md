@@ -55,7 +55,7 @@ If someone can tell me the proper way to say and notate the blank entries in the
 Solution example use tables
 ===========================
 
-The following table illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
+The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
 
 Area
 ====
