@@ -32,7 +32,7 @@ The SI system is at its best when each unit has a name.
 
 Advantages:
 
-1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplfy the notation and being able to say it.
+1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation and being able to say it.
 2. Follows the normal SI rules for unit names and notation.
 3. Single syllable.
 4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
