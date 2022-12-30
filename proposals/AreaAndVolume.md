@@ -98,7 +98,7 @@ Area
 | 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 miloquad    | 10 mquad      |
 |                       |                    | 0.001             | 1 miloquad     | 1 mquad       |
 | 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad     |
-|                       |                    | 0.000 01          | 10 microquad   | 10 mquad      |
+|                       |                    | 0.000 01          | 10 microquad   | 10 uquad      |
 | 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
 |                       |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad     |
 |                       |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad      |
