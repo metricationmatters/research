@@ -44,13 +44,21 @@ Disadvantages
 1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
 2. Other disavantages?
 
+I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
+
 Possible Retraction
 ===================
 
 If someone can tell me the proper way to say and notate the blank entries in the tables below, I might retract this proposal.
 
-Discussion - Possible names for base units of area and volume
-=============================================================
+
+Solution example use tables
+===========================
+
+The following table illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
+
+Area
+====
 
 Unfortunately, while the obvious choice for area is the "are", it and the "hectare" are previously used and currently used, respectively.
 However they are wierdly sized units and "are" would not be suitable for a base unit unless we redefine the "are" and the "hectare".
@@ -67,21 +75,7 @@ Latin word for square: quad
 
 Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
 
-Latin word for volume: liber (to close to liter, would be confused and indistinct over bad communication lines)
 
-Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't give that name.
-
-Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "vol" because it is one syllable and easier to say than "stere".
-
-I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
-
-Solution example use tables
-===========================
-
-The following table illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
-
-Area
-====
 | Name                  | Notation           | Multiplier        | New name       | New notation  |
 | :---                  | :---               | :--               | :---           | :---          |
 | ...                   | ...                | ...               | ...            | ...           |
@@ -114,6 +108,13 @@ Area
 
 Volume
 ======
+
+Latin word for volume: liber (to close to liter, would be confused and indistinct over bad communication lines)
+
+Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't give that name.
+
+Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "vol" because it is one syllable and easier to say than "stere".
+
 | Name                 | Notation            | Multiplier                | New name             | New notation | Liter  |
 | :---                 | :---                | :---                      | :---                 | :---         | :---   |
 | ...                  | ...                 | ...                       | ...                  | ...          | ...    |
