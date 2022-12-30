@@ -36,7 +36,7 @@ References
 1. [SI Historical Notes](references/SI-Brochure-9-App4-EN.pdf)
 
 
-Paper
+Papers
 
 1. [Standard Metric Paper](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 1. [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E)
@@ -45,6 +45,7 @@ Paper
 History
 
 1. [Babel Of Units](history/BableOfUnits-1506.01951.pdf)
+1. [U.S. - Finally only one foot](https://static.tti.tamu.edu/conferences/uesi21/presentations/track-b/dennis.pdf)
 
 Web Sites
 
