@@ -20,9 +20,14 @@ How do you "say" square meter and cubic meter with numbers and prefixes?
 
 I've not heard people talk about the proper way to say square meter and cubic meter with numbers and prefixes.
 
-Is it "50 kilo square meter"?
+I don't thihk it Is "50 kilo square meter".
 
-Is it "50 milli cubic meter"?
+I don't think it is "50 milli cubic meter".
+
+Specifically, the problem for area is the numbers between for example, "1 square meter" and "1 square kilometer" or between "1 square kilometer" and "1 square megameter" or any of the prefixes.  There are multiple factors of 10 between those and there doesn't seem to be an easy way to say, write, or think about those in between numbers.
+
+
+Specifically, the problem for volume is the numbers between for example, "1 cubic meter" and "1 cubic kilometer" or between "1 cubic kilometer" and "1 cubic megameter" or any of the prefixes.  There are multiple factors of 10 between those and there doesn't seem to be an easy way to say, write, or think about those in between numbers.
 
 The concepts are "area" and "volume" which are extensions of linear length into 2 and 3 dimensions.
 
