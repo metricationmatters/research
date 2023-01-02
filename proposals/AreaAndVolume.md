@@ -35,11 +35,11 @@ The beauty and simplicity of the SI system for other units doesn't seem to exten
 
 There should be some easy way to use a number and a prefix along with a unit name to denote "area" and "volume".
 
-THe SI system doesn't have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
+The SI system doesn't have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
 
 The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
 
-THe SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
+The SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
 
 Why is that?
 
