@@ -20,9 +20,9 @@ How do you "say" square meter and cubic meter with numbers and prefixes?
 
 I've not heard people talk about the proper way to say square meter and cubic meter with numbers and prefixes.
 
-Is it "1 tera square meter"?
+Is it "50 kilo square meter"?
 
-Is it "1 nano cubic meter"?
+Is it "50 milli cubic meter"?
 
 The concepts are "area" and "volume" which are extensions of linear length into 2 and 3 dimensions.
 
@@ -32,7 +32,7 @@ There should be some easy way to use a number and a prefix along with a unit nam
 
 THe SI system doesn't seem to have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
 
-The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about the sub-unit liter as if it were the base unit which is not correct.
+The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
 
 THe SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
 
@@ -97,9 +97,9 @@ Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
 |                       |                    | 100 000 000       | 100 megaquad   | 100 Mquad     |
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
 | 1 square kilometer    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
-|                       |                    | 100 000           | 100 kiloquad   | 100 Kquad     |
-| 1 square hectometer   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 Kquad      |
-|                       |                    | 1000              | 1 kiloquad     | 1 Kquad       |
+|                       |                    | 100 000           | 100 kiloquad   | 100 kquad     |
+| 1 square hectometer   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
+|                       |                    | 1000              | 1 kiloquad     | 1 kquad       |
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 100 quad       | 100 quad      |
 |                       |                    | 10                | 10 quad        | 10 quad       |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 | 1 quad         | 1 quad        |
@@ -145,9 +145,9 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 |                      |                     | 100 000                   | 100 kilovol          | 100 Kvol     | 100 ML |
 |                      |                     | 10 000                    | 10 kilovol           | 10 Kvol      | 10 ML  |
 | 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilovol            | 1 Kvol       | 1 ML   |
-|                      | 100 m<sup>3</sup>   | 100                       | 100 vol              | 100 vol      | 100 KL |
-|                      | 10 m<sup>3</sup>    | 10                        | 10 vol               | 10 vol       | 10 KL  |
-| 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 KL   |
+|                      | 100 m<sup>3</sup>   | 100                       | 100 vol              | 100 vol      | 100 kL |
+|                      | 10 m<sup>3</sup>    | 10                        | 10 vol               | 10 vol       | 10 kL  |
+| 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 kL   |
 |                      |                     | 0.1                       | 100 millivol         | 100 mvol     | 100 L  |
 |                      |                     | 0.01                      | 10 millivol          | 10 mvol      | 10 L   |
 | 1 cubic decimeter    | 1 dm<sup>3</sup>    | 0.001                     | 1 millivol           | 1 mvol       | 1 L    |
