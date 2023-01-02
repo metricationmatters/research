@@ -181,5 +181,5 @@ I propose adding new names for base unit of area (quad) and base unit of volume 
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
-I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.
+I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.  This would continue to simplify the SI system and get rid of multiple unit names for one type of unit.
 
