@@ -75,7 +75,7 @@ Greek word for square: tetra
 
 Latin word for square: quad
 
-Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
+Proposal: At the moment I'm going to suggest "1 quad = 1 square meter".
 
 
 | Name                  | Notation           | Multiplier        | New name       | New notation  |
@@ -115,7 +115,7 @@ Latin word for volume: liber (to close to liter, would be confused and indistinc
 
 Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't give that name.
 
-Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "vol" is one syllable and easier to say than "stere".
+Proposal: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "vol" is one syllable and easier to say than "stere".
 
 | Name                 | Notation            | Multiplier                | New name             | New notation | Liter  |
 | :---                 | :---                | :---                      | :---                 | :---         | :---   |
