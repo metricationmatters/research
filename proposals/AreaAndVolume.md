@@ -113,7 +113,7 @@ Volume
 
 Latin word for volume: liber (to close to liter, would be confused and indistinct over bad communication lines)
 
-Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't give that name.
+Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't use that pre-existing name.
 
 Proposal: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "vol" is one syllable and easier to say than "stere".
 
