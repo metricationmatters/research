@@ -47,24 +47,8 @@ I think it would be better to give the square meter and the cubic meter
 a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.
 The SI system is at its best when each base unit has a name.
 
-Advantages:
-
-1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and being able to say it.
-2. Follows the normal SI rules for numbers, prefixes, and unit names and notation.
-3. Single syllable.
-4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", X is a number between 1 - 999 and Y is some prefix.
-
-
-Disadvantages
-=============
-
-1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
-2. Other disavantages?
-
-I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
-
-Solution example use tables
-===========================
+Example usage tables
+====================
 
 The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
 
@@ -167,3 +151,21 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 |                      |                     | 0.000 000 000 000 000 01  | 10 attovol           | 10 avol      | 10 fL  |
 | 1 cubic micrometer   | 1 um<sup>3</sup>    | 0.000 000 000 000 000 001 | 1 attovol            | 1 avol       | 1 fL   |
 | ...                  | ...                 | ...                       | ...                  | ...          | ...    |
+
+Advantages
+==========
+
+1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and being able to say it.
+2. Follows the normal SI rules for numbers, prefixes, and unit names and notation.
+3. Single syllable.
+4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", X is a number between 1 - 999 and Y is some prefix.
+
+
+Disadvantages
+=============
+
+1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
+2. Other disavantages?
+
+I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
+
