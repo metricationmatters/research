@@ -177,10 +177,9 @@ Disadvantages
 Conclusion
 ==========
 
-Add new names for base unit of area (quad) and base unit of volume (vol).
+I propose adding new names for base unit of area (quad) and base unit of volume (vol).
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
-Note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).
+I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.
 
-I'm not suggesting this at this time, but the name "liter" could be deprecated and the system would be simplified by using the just numbers and prefixes for the base unit of volume.
