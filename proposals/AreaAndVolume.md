@@ -20,7 +20,7 @@ How do you "say" square meter and cubic meter with numbers and prefixes?
 
 I've not heard people talk about the proper way to say square meter and cubic meter with numbers and prefixes.
 
-I don't thihk it Is "50 kilo square meter".
+I don't think it is "50 kilo square meter".
 
 I don't think it is "50 milli cubic meter".
 
@@ -162,7 +162,7 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 Advantages
 ==========
 
-1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and being able to say it.
+1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and expression of the associated numbers and units.
 2. Follows the normal SI rules for numbers, prefixes, and unit names and notation.
 3. Single syllable.
 4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", X is a number between 1 - 999 and Y is some prefix.
@@ -171,7 +171,7 @@ Advantages
 Disadvantages
 =============
 
-1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
+1. Might take (a long) time to get the world to use the new names and symbols (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
 2. Other disadvantages?
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
