@@ -172,7 +172,7 @@ Disadvantages
 =============
 
 1. Might take (a long) time to get the world to use it (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
-2. Other disavantages?
+2. Other disadvantages?
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
