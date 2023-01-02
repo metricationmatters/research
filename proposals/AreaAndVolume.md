@@ -31,11 +31,11 @@ Specifically, the problem for volume is the numbers between for example, "1 cubi
 
 The concepts are "area" and "volume" which are extensions of linear length into 2 and 3 dimensions.
 
-The beauty and simplcity of the SI system for other units doesn't seem to extend to area and volume.
+The beauty and simplicity of the SI system for other units doesn't seem to extend to area and volume.
 
 There should be some easy way to use a number and a prefix along with a unit name to denote "area" and "volume".
 
-THe SI system doesn't seem to have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
+THe SI system doesn't have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
 
 The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
 
@@ -56,6 +56,8 @@ Example usage tables
 ====================
 
 The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said, notated, or thought about with the current rules and notation but easily extendable to "proper" usage of a number, prefix, and base name with the new unit names.
+
+The tables below only show the tables for prefixes up to mega and down to micro but are actually used in the same way for any of the prefixes from quetta to quecto.
 
 Area
 ====
