@@ -89,7 +89,7 @@ Proposal: At the moment I'm going to suggest "1 quad = 1 square meter".
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
 | 1 square kilometer    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
 |                       |                    | 100 000           | 100 kiloquad   | 100 kquad     |
-| 1 square hectometer   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
+| 1 square hectometer (hectare)  | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
 |                       |                    | 1000              | 1 kiloquad     | 1 kquad       |
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 100 quad       | 100 quad      |
 |                       |                    | 10                | 10 quad        | 10 quad       |
@@ -180,6 +180,8 @@ Conclusion
 I propose adding new names for base unit of area (quad) and base unit of volume (vol).
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
+
+I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".
 
 I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.  This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion on what the base unit is.
 
