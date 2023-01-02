@@ -171,7 +171,7 @@ Advantages
 Disadvantages
 =============
 
-1. Might take (a long) time to get the world to use the new names and symbols (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
+1. Adoption might take (a long) time to get the world to use the new names and symbols (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
 2. Other disadvantages?
 
 Conclusion
