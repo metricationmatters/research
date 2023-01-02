@@ -31,7 +31,7 @@ Problem with and changes to the SI
 References
 
 1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
-1. [SI Concise Brocure](references/SI-Brochure-9-concise-EN.pdf)
+1. [SI Concise Brochure](references/SI-Brochure-9-concise-EN.pdf)
 1. [SI Decisions](references/si-brochure-9-App1-EN.pdf)
 1. [SI Historical Notes](references/SI-Brochure-9-App4-EN.pdf)
 
