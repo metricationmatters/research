@@ -43,7 +43,7 @@ The SI system has proper names for units for everything except for kilogram, squ
 
 Why is that?
 
-How can we fix it to make it easier to says, use, and think about area and volume?
+How can we fix it to make it easier to say, use, and think about area and volume?
 
 Solution
 ========
