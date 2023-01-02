@@ -50,7 +50,7 @@ The SI system is at its best when each base unit has a name.
 Example usage tables
 ====================
 
-The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated with the current rules and notation.
+The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said or notated, or thought about with the current rules and notation but easily extendable to "proper" usage of a number, prefix, and base name with the new unit names.
 
 Area
 ====
