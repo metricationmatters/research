@@ -23,19 +23,35 @@ Is it "1 tera square meter"?
 
 Is it "1 nano cubic meter"?
 
+The concepts are "area" and "volume" which are extensions of linear length into 2 and 3 dimensions.
+
+The beauty and simplcity of the SI system for other units doesn't seem to extend to area and volume.
+
+There should be some easy way to use a number and a prefix along with a unit name to denote "area" and "volume".
+
+THe SI system doesn't seem to have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
+
+The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about the sub-unit liter as if it were the base unit which is not correct.
+
+THe SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
+
+Why is that?
+
+How can we fix it to make it easier to says, use, and think about area and volume?
+
 Solution
 ========
 
 I think it would be better to give the square meter and the cubic meter
 a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.
-The SI system is at its best when each unit has a name.
+The SI system is at its best when each base unit has a name.
 
 Advantages:
 
-1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation and being able to say it.
-2. Follows the normal SI rules for unit names and notation.
+1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and being able to say it.
+2. Follows the normal SI rules for numbers, prefixes, and unit names and notation.
 3. Single syllable.
-4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", where Y is some prefix.
+4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", X is a number between 1 - 999 and Y is some prefix.
 
 
 Disadvantages
@@ -45,12 +61,6 @@ Disadvantages
 2. Other disavantages?
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
-
-Possible Retraction
-===================
-
-If someone can tell me the proper way to say and notate the blank entries in the tables below, I might retract this proposal.
-
 
 Solution example use tables
 ===========================
@@ -87,15 +97,15 @@ Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
 | 1 square kilometer    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
 |                       |                    | 100 000           | 100 kiloquad   | 100 Kquad     |
-| 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 Kquad      |
+| 1 square hectometer   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 Kquad      |
 |                       |                    | 1000              | 1 kiloquad     | 1 Kquad       |
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 100 quad       | 100 quad      |
-|                       | 10 m<sup>2</sup>   | 10                | 10 quad        | 10 quad       |
+|                       |                    | 10                | 10 quad        | 10 quad       |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 | 1 quad         | 1 quad        |
 |                       |                    | 0.1               | 100 miloquad   | 100 mquad     |
-| 1 square decometer    | 1 dm<sup>2</sup>   | 0.01              | 10 miloquad    | 10 mquad      |
+| 1 square decimeter    | 1 dm<sup>2</sup>   | 0.01              | 10 miloquad    | 10 mquad      |
 |                       |                    | 0.001             | 1 miloquad     | 1 mquad       |
-| 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad     |
+| 1 square centimeter   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad     |
 |                       |                    | 0.000 01          | 10 microquad   | 10 uquad      |
 | 1 square millimeter   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
 |                       |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad     |
@@ -130,7 +140,7 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 | 1 cubic kilometer    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
 |                      |                     | 100 000 000               | 100 megavol          | 100 Mvol     | 100 TL |
 |                      |                     | 10 000 000                | 10 megavol           | 10 Mvol      | 10 TL  |
-| 1 cubic hectameter   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
+| 1 cubic hectometer   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
 |                      |                     | 100 000                   | 100 kilovol          | 100 Kvol     | 100 ML |
 |                      |                     | 10 000                    | 10 kilovol           | 10 Kvol      | 10 ML  |
 | 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilovol            | 1 Kvol       | 1 ML   |
@@ -139,10 +149,10 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 KL   |
 |                      |                     | 0.1                       | 100 millivol         | 100 mvol     | 100 L  |
 |                      |                     | 0.01                      | 10 millivol          | 10 mvol      | 10 L   |
-| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millivol           | 1 mvol       | 1 L    |
+| 1 cubic decimeter    | 1 dm<sup>3</sup>    | 0.001                     | 1 millivol           | 1 mvol       | 1 L    |
 |                      |                     | 0.000 1                   | 100 microvol         | 100 uvol     | 100 mL |
 |                      |                     | 0.000 01                  | 10 microvol          | 10 uvol      | 10 mL  |
-| 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 microvol           | 1 uvol       | 1 mL   |
+| 1 cubic centimeter   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 microvol           | 1 uvol       | 1 mL   |
 |                      |                     | 0.000 000 1               | 100 nanovol          | 100 nvol     | 100 uL |
 |                      |                     | 0.000 000 01              | 10 nanovol           | 10 nvol      | 10 uL  |
 | 1 cubic millimeter   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nanovol            | 1 nvol       | 1 uL   |
