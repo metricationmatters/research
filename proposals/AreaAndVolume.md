@@ -11,9 +11,9 @@ Problem
 
 What is the proper way to indicate numbers and prefixes for base units of area and volume?
 
-1 square millometer (1 mm<sup>2</sup>) is not the same as 1 millo square meter.
+1 square millimeter (1 mm<sup>2</sup>) is not the same as 1 milli square meter.
 
-1 cubic millometer (1 mm<sup>3</sup>) is not the same as 1 millo cubic meter.
+1 cubic millimeter (1 mm<sup>3</sup>) is not the same as 1 milli cubic meter.
 
 How do you "say" square meter and cubic meter with numbers and prefixes?
 
@@ -85,10 +85,10 @@ Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
 |                       |                    | 1 000 000 000     | 1 gigaquad     | 1 Gquad       |
 |                       |                    | 100 000 000       | 100 megaquad   | 100 Mquad     |
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
-| 1 square kilameter    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
-|                       |                    | 100 000           | 100 kilaquad   | 100 Kquad     |
-| 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kilaquad    | 10 Kquad      |
-|                       |                    | 1000              | 1 kilaquad     | 1 Kquad       |
+| 1 square kilometer    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
+|                       |                    | 100 000           | 100 kiloquad   | 100 Kquad     |
+| 1 square hectameter   | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 Kquad      |
+|                       |                    | 1000              | 1 kiloquad     | 1 Kquad       |
 | 1 square decameter    | 1 Dam<sup>2</sup>  | 100               | 100 quad       | 100 quad      |
 |                       | 10 m<sup>2</sup>   | 10                | 10 quad        | 10 quad       |
 | 1 square meter        | 1 m<sup>2</sup>    | 1                 | 1 quad         | 1 quad        |
@@ -97,7 +97,7 @@ Suggestion: At the moment I'm going to suggest "1 quad = 1 square meter".
 |                       |                    | 0.001             | 1 miloquad     | 1 mquad       |
 | 1 square centometer   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad     |
 |                       |                    | 0.000 01          | 10 microquad   | 10 uquad      |
-| 1 square millometer   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
+| 1 square millimeter   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
 |                       |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad     |
 |                       |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad      |
 |                       |                    | 0.000 000 001     | 1 nanoquad     | 1 nquad       |
@@ -127,25 +127,25 @@ Suggestion: At the moment I'm going to suggest "1 vol = 1 cubic meter" because "
 |                      |                     | 1 000 000 000 000         | 1 teravol            | 1 Tvol       | 1 PL   |
 |                      |                     | 100 000 000 000           | 100 gigavol          | 100 Gvol     | 100 TL |
 |                      |                     | 10 000 000 000            | 10 gigavol           | 10 Gvol      | 10 TL  |
-| 1 cubic kilameter    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
+| 1 cubic kilometer    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
 |                      |                     | 100 000 000               | 100 megavol          | 100 Mvol     | 100 TL |
 |                      |                     | 10 000 000                | 10 megavol           | 10 Mvol      | 10 TL  |
 | 1 cubic hectameter   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
-|                      |                     | 100 000                   | 100 kilavol          | 100 Kvol     | 100 ML |
-|                      |                     | 10 000                    | 10 kilavol           | 10 Kvol      | 10 ML  |
-| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilavol            | 1 Kvol       | 1 ML   |
+|                      |                     | 100 000                   | 100 kilovol          | 100 Kvol     | 100 ML |
+|                      |                     | 10 000                    | 10 kilovol           | 10 Kvol      | 10 ML  |
+| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilovol            | 1 Kvol       | 1 ML   |
 |                      | 100 m<sup>3</sup>   | 100                       | 100 vol              | 100 vol      | 100 KL |
 |                      | 10 m<sup>3</sup>    | 10                        | 10 vol               | 10 vol       | 10 KL  |
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 KL   |
-|                      |                     | 0.1                       | 100 millovol         | 100 mvol     | 100 L  |
-|                      |                     | 0.01                      | 10 millovol          | 10 mvol      | 10 L   |
-| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millovol           | 1 mvol       | 1 L    |
+|                      |                     | 0.1                       | 100 millivol         | 100 mvol     | 100 L  |
+|                      |                     | 0.01                      | 10 millivol          | 10 mvol      | 10 L   |
+| 1 cubic decometer    | 1 dm<sup>3</sup>    | 0.001                     | 1 millivol           | 1 mvol       | 1 L    |
 |                      |                     | 0.000 1                   | 100 microvol         | 100 uvol     | 100 mL |
 |                      |                     | 0.000 01                  | 10 microvol          | 10 uvol      | 10 mL  |
 | 1 cubic centometer   | 1 cm<sup>3</sup>    | 0.000 001                 | 1 microvol           | 1 uvol       | 1 mL   |
 |                      |                     | 0.000 000 1               | 100 nanovol          | 100 nvol     | 100 uL |
 |                      |                     | 0.000 000 01              | 10 nanovol           | 10 nvol      | 10 uL  |
-| 1 cubic millometer   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nanovol            | 1 nvol       | 1 uL   |
+| 1 cubic millimeter   | 1 mm<sup>3</sup>    | 0.000 000 001             | 1 nanovol            | 1 nvol       | 1 uL   |
 |                      |                     | 0.000 000 000 1           | 100 picovol          | 100 pvol     | 100 nL |
 |                      |                     | 0.000 000 000 01          | 10 picovol           | 10 pvol      | 10 nL  |
 |                      |                     | 0.000 000 000 001         | 1 picovol            | 1 pvol       | 1 nL   |
