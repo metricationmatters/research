@@ -55,9 +55,11 @@ The SI system is at its best when each base unit has a name.
 Example usage tables
 ====================
 
-The following tables illustrate the use of the new units and show that the lines with blank names and notation are not easily said, notated, or thought about with the current rules and notation but easily extendable to "proper SI usage" of a number, prefix, and unit name with the new unit names.
+The following tables illustrate the use of the new units.
 
 The tables below only show the tables for prefixes up to mega and down to micro but are actually used in the same way for any of the prefixes from quetta to quecto.
+
+Note: The lines with blank names and notation are not easily said, notated, or thought about with the current rules and notation but easily extendable to "proper SI usage" of a number, prefix, and unit name with the new unit names.
 
 Area
 ====
