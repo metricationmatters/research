@@ -113,7 +113,7 @@ Proposal: At the moment I'm going to suggest "1 quad = 1 square meter".
 Volume
 ======
 
-Latin word for volume: liber (to close to liter, would be confused and indistinct over bad communication lines)
+Latin word for volume: liber (too close to liter, would be confused and indistinct over bad communication lines)
 
 Wikipedia shows that a common name for 1 cubic meter is "stere" although for some reason the SI doesn't use that pre-existing name.
 
