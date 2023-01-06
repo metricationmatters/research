@@ -28,13 +28,17 @@ Problem with and changes to the SI
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf)
 1. [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf)
 
-References
+SI References
 
 1. [SI Brochure](references/SI-Brochure-9-EN.pdf)
 1. [SI Concise Brochure](references/SI-Brochure-9-concise-EN.pdf)
 1. [SI Decisions](references/si-brochure-9-App1-EN.pdf)
 1. [SI Historical Notes](references/SI-Brochure-9-App4-EN.pdf)
 
+
+Rename Kilogram References
+1. [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
+1. [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
 
 Papers
 
