@@ -62,7 +62,8 @@ Humor
 
 1. [Roman Numerals -> Decimal](https://www.youtube.com/watch?v=fjFaKD9BuOc)
 1. [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
-1. [Metric Jokes](MetricJokes.txt)
+1. [Metric Jokes](humor/MetricJokes.txt)
+1. [Rational Customary System](humor/RationalCustomarySystem.jpg)
 
 Non-Metric but Interesting
 
