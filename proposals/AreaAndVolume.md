@@ -48,8 +48,10 @@ How can we fix it to make it easier to say, use, and think about area and volume
 Solution
 ========
 
-I think it would be better to give the square meter and the cubic meter
-a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.  This would allow correct number and prefixes to the base unit name.
+I would not deprecate the current usage but relegate the current "square meter" and "cubic meter" to an accurate description.
+
+Then I propose to give the square meter and the cubic meter
+a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.  Giving those units a name would allow correct number and prefixes to the base unit name.
 
 The SI system is at its best when each base unit has a name.
 
