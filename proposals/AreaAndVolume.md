@@ -49,7 +49,8 @@ Solution
 ========
 
 I think it would be better to give the square meter and the cubic meter
-a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.
+a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.  This would allow correct number and prefixes to the base unit name.
+
 The SI system is at its best when each base unit has a name.
 
 Example usage tables
