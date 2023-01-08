@@ -1,4 +1,4 @@
-Use Metric v2.0: It's 1000 Times Easier
+Use Metric v2: It's 1000 Times Easier
 ----------------------------------------------------------------
 1000 millometers (1000 mm) = 1 meter (1 m) [Length Base Unit]
 1000 meters (1000 m) = 1 kilameter (1 Km)
