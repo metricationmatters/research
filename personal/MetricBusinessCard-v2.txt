@@ -3,8 +3,8 @@ Use Metric v2.0: It's 1000 Times Easier
 1000 millometers (1000 mm) = 1 meter (1 m) [Length Base Unit]
 1000 meters (1000 m) = 1 kilameter (1 Km)
 ----------------------------------------------------------------
-1000 milloquad = 1 quad (1 quad) [Area Base Unit] = 1 square meter (1 m^2)
-1000 quad = 1 kiloquad (1 Kquad)
+1000 milloquad (1000 mquad) = 1 quad (1 quad) [Area Base Unit] = 1 square meter (1 m^2)
+1000 quad (1000 quad) = 1 kiloquad (1 Kquad)
 ----------------------------------------------------------------
 1000 milloliters (1000 mL) = 1 liter (1 L) = 1 millovol (1 mvol)
 1000 liters (1000 L) = 1 vol (1 vol) [Volume Base Unit] = 1 cubic meter (1 m^3)
