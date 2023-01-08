@@ -37,7 +37,7 @@ There should be some easy way to use a number and a prefix along with a unit nam
 
 The SI system doesn't have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
 
-The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additinally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
+The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additionally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
 
 The SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
 
@@ -53,7 +53,7 @@ I would not deprecate the current usage but relegate the current "square meter" 
 Then I propose to give the square meter and the cubic meter
 a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.  Giving those units a name would allow correct number and prefixes to the base unit name.
 
-The SI system is at its best when each base unit has a name.
+The SI system is at its best when each base unit has a (unique) name.
 
 Example usage tables
 ====================
