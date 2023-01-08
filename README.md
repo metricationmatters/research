@@ -17,6 +17,7 @@ Reports
 1. [Mile Behind Final Report](reports/MileBehind-sst-final-3.pdf)
 
 [Metric Business Card](personal/MetricBusinessCard-v1.pdf)
+[Metric Business Card v2.0](personal/MetricBusinessCard-v2.txt)
 
 Miscellaneous articles
 
