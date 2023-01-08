@@ -9,6 +9,6 @@ Why Metric?
 6. Each year on average up to 98 000 lives are lost because of errors in coversion between customary and metric units.  A metricated US would prevent these erroneous conversions that threaten lives.
 7. Switching to Metric has costs.  Not switching to Metric has costs.  Which is greater?  Most countries have demonstrated multiple times that switching to SI Metric would save money in the long run and costs can be recouped within several years..
    1. Dual sets of tools would not be needed.
-   2. It is estimated that education costs of up to 219 gigadollars could be saved.
+   2. It is estimated that education costs of up to 219 G$ could be saved.
    3. For other countries, typically 10-15% of company costs every year could be saved.
-   4. It is estimated that up to 1 teradollors could be saved in the the US each year.
+   4. It is estimated that up to 1 T$ could be saved in the the US each year.
