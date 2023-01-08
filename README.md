@@ -21,7 +21,8 @@ Reports
 Business Card
 =============
 1. [Metric Business Card](personal/MetricBusinessCard-v1.pdf)
-1. [Metric Business Card v2.0](personal/MetricBusinessCard-v2.txt)
+1. [Metric Business Card v2 TXT](personal/MetricBusinessCard-v2.txt)
+1. [Metric Business Card v2 PDF](personal/MetricBusinessCard-v2.pdf)
 
 Miscellaneous articles
 ======================
