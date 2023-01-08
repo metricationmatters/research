@@ -1,5 +1,8 @@
 
 Research on SI Metric System
+============================
+
+[Why Metric?](WhyMetric.md)
 
 Issues and Proposals
 ====================
