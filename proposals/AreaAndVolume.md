@@ -192,3 +192,15 @@ I'm not suggesting this at this time, but note that that with the new unit name 
 
 The SI system is at its best when there is only one unique name for each unit.
 
+As with almost anything, there will be people who disagree.
+
+If you disagree, why?
+
+If you dislike the name, what name and symbol would you rename it to?
+
+I would hope that in the future our standardized system of measurements could be rationalized, simplified, made more regular, use no special cases, and otherwise "improved".
+
+Who could I send this to who would be influential in voting for and getting this change adopted?
+
+Thanks for your consideration.
+
