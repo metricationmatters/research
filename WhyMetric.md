@@ -3,7 +3,7 @@ Why Metric?
 
 1. The SI Metric system is the accepted world-wide standard, including in the US. It is simpler and easier to use than any other system.
 2. A country only needs one standard measurement system.  It doesn't need more than one.  Any more introduces errors and confusion.
-3. THe SI Metric system is the only standard measurement system that includes electricity and magnetism.  The US customary measurement system has no units for electricty and magnetism.
+3. The SI Metric system is the only standard measurement system that includes electricity and magnetism.  The US customary measurement system has no units for electricty and magnetism.
 4. The SI Metric system simplifies all measurement units by using one name for each unit of measurement instead of multitudes of different names.  There are at least 199 different names for energy in the US customary system.  In the SI metric system there is only one.  The same applies to many other units of measurement.
 5. The SI metric system is the *preferred* measurement system in the US by law.
 6. Each year on average up to 98 000 lives are lost because of errors in coversion between customary and metric units.  A metricated US would prevent these erroneous conversions that threaten lives.
@@ -12,4 +12,4 @@ Why Metric?
    2. It is estimated that education costs of up to 219 G$ could be saved (1 year of education for each child).
    3. For other countries, typically 10-15% of company costs every year could be saved.
    4. It is estimated that up to 1 T$ could be saved in the the US each year.
-8. Switching the US to Metric would alleviate misunderstandings in measurement between the US and all the other countries in the world.  Many people in other parts of the world don't know "inches", "feet", "miles", "ounces", "pounds", "gallons", etc.  That forces them to convert for us or for us to convert for them which introduces frequent errors.
+8. Switching the US to Metric would alleviate misunderstandings in measurement between the US and all the other countries in the world.  Many people in other parts of the world don't know "inches", "feet", "miles", "ounces", "pounds", "gallons", etc.  That forces them to convert for us or for us to convert for them which introduces frequent errors and misunderstanding.
