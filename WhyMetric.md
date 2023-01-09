@@ -6,7 +6,7 @@ Why Metric?
 3. The SI Metric system is the only standard measurement system that includes electricity and magnetism.  The US customary measurement system has no units for electricty and magnetism.
 4. The SI Metric system simplifies all measurement units by using one name for each unit of measurement instead of multitudes of different names.  There are at least 199 different names for energy in the US customary system.  In the SI metric system there is only one.  The same applies to many other units of measurement.
 5. The SI metric system is the *preferred* measurement system in the US by law.
-6. Each year on average up to 98 000 lives are lost because of errors in coversion between customary and metric units.  A metricated US would prevent these erroneous conversions that threaten lives.
+6. Each year on average up to 98 000 lives are lost because of errors in conversion between customary and metric units.  A metricated US would immediately obviate any need for conversions that threaten lives.
 7. Switching to Metric has costs.  Not switching to Metric has costs.  Which is greater?  Most countries have demonstrated multiple times that switching to SI Metric would save money in the long run and costs can be recouped within several years..
    1. Dual sets of tools would not be needed.
    2. It is estimated that education costs of up to 219 G$ could be saved (1 year of education for each child).
