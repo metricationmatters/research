@@ -92,7 +92,7 @@ Proposal: At the moment I'm going to propose "1 quad = 1 square meter", mainly b
 |                       |                    | 1 000 000 000     | 1 gigaquad     | 1 Gquad       |
 |                       |                    | 100 000 000       | 100 megaquad   | 100 Mquad     |
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
-| 1 square kilometer    | 1 Km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
+| 1 square kilometer    | 1 km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
 |                       |                    | 100 000           | 100 kiloquad   | 100 kquad     |
 | 1 square hectometer (hectare)  | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
 |                       |                    | 1000              | 1 kiloquad     | 1 kquad       |
@@ -134,7 +134,7 @@ Proposal: At the moment I'm going to propose "1 vol = 1 cubic meter" because "vo
 |                      |                     | 1 000 000 000 000         | 1 teravol            | 1 Tvol       | 1 PL   |
 |                      |                     | 100 000 000 000           | 100 gigavol          | 100 Gvol     | 100 TL |
 |                      |                     | 10 000 000 000            | 10 gigavol           | 10 Gvol      | 10 TL  |
-| 1 cubic kilometer    | 1 Km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
+| 1 cubic kilometer    | 1 km<sup>3</sup>    | 1 000 000 000             | 1 gigavol            | 1 Gvol       | 1 TL   |
 |                      |                     | 100 000 000               | 100 megavol          | 100 Mvol     | 100 TL |
 |                      |                     | 10 000 000                | 10 megavol           | 10 Mvol      | 10 TL  |
 | 1 cubic hectometer   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
