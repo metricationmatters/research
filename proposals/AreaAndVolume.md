@@ -138,9 +138,9 @@ Proposal: At the moment I'm going to propose "1 vol = 1 cubic meter" because "vo
 |                      |                     | 100 000 000               | 100 megavol          | 100 Mvol     | 100 TL |
 |                      |                     | 10 000 000                | 10 megavol           | 10 Mvol      | 10 TL  |
 | 1 cubic hectometer   | 1 Hm<sup>3</sup>    | 1 000 000                 | 1 megavol            | 1 Mvol       | 1 GL   |
-|                      |                     | 100 000                   | 100 kilovol          | 100 Kvol     | 100 ML |
-|                      |                     | 10 000                    | 10 kilovol           | 10 Kvol      | 10 ML  |
-| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilovol            | 1 Kvol       | 1 ML   |
+|                      |                     | 100 000                   | 100 kilovol          | 100 kvol     | 100 ML |
+|                      |                     | 10 000                    | 10 kilovol           | 10 kvol      | 10 ML  |
+| 1 cubic decameter    | 1 Dam<sup>3</sup>   | 1 000                     | 1 kilovol            | 1 kvol       | 1 ML   |
 |                      | 100 m<sup>3</sup>   | 100                       | 100 vol              | 100 vol      | 100 kL |
 |                      | 10 m<sup>3</sup>    | 10                        | 10 vol               | 10 vol       | 10 kL  |
 | 1 cubic meter        | 1 m<sup>3</sup>     | 1                         | 1 vol                | 1 vol        | 1 kL   |
