@@ -186,9 +186,9 @@ I propose adding new names for base unit of area (quad) and base unit of volume 
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
-I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".
+I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".  The normal SI rules suggest only one name for each base unit.
 
-I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.  This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion about the base unit of volume and its name.
+I'm not suggesting this at this time, but note that that with the new unit name for volume (vol) there is no need for the "liter" unit, it can be called 1 millivol (1 mvol).  The unit name of "liter" could be deprecated.  The normal SI rules suggest only one name for each base unit. This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion about the base unit of volume and its name.
 
 The SI system is at its best when there is only one unique name for each unit.
 
