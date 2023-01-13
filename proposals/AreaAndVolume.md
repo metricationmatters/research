@@ -104,7 +104,7 @@ Proposal: At the moment I'm going to propose "1 quad = 1 square meter", mainly b
 |                       |                    | 0.1               | 100 milliquad   | 100 mquad     |
 | 1 square decimeter    | 1 dm<sup>2</sup>   | 0.01              | 10 milliquad    | 10 mquad      |
 |                       |                    | 0.001             | 1 milliquad     | 1 mquad       |
-| 1 square centimeter   | 1 cm<sup>2</sup>   | 0.000 1           | 100 mircoquad  | 100 uquad     |
+| 1 square centimeter   | 1 cm<sup>2</sup>   | 0.000 1           | 100 microquad  | 100 uquad     |
 |                       |                    | 0.000 01          | 10 microquad   | 10 uquad      |
 | 1 square millimeter   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
 |                       |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad     |
