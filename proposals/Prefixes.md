@@ -23,7 +23,7 @@ Regularize the prefix names from previous irregular rules and deprecate as follo
 
 Rules
 
-1. Magnifying prefixes start with upper case letters, minifying prefixes start with lower case letters.
+1. Magnifying prefix symbols (not names) start with upper case letters, minifying prefix symbols (not names) start with lower case letters.
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
 3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their beginnings and endings.
 
@@ -76,5 +76,5 @@ Deprecate and change:
 2. deci  -> deco
 4. centi -> cento
 
-Last changed: 2022-10-29
+Last changed: 2023-01-12
 
