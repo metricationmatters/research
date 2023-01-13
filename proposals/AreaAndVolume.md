@@ -179,6 +179,7 @@ Disadvantages
 =============
 
 1. Adoption might take (a long) time to get the world to use the new names and symbols (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
+2. Some people have provided feedback that using a name would "hide" what is going on. The base unit is length, and area an volume are just the square and cube of length.  My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept or base unit.  We already have a name for the volume sub-unit (liter) but that confuses people and they constantly think that the liter is the base unit of volume. I think that is because it is a name, which is easier to use than the base unit.  With a name for the base unit for area and volume, the quad could be the easy-to-use name for area and the liter *could* be deprecated and we could only use the base unit names and prefixes to those base units.
 2. Other disadvantages?
 
 Conclusion
