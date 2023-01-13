@@ -96,7 +96,7 @@ Proposal: At the moment I'm going to propose "1 quad = 1 square meter", mainly b
 |                       |                    | 10 000 000        | 10 megaquad    | 10 Mquad      |
 | 1 square kilometer    | 1 km<sup>2</sup>   | 1 000 000         | 1 megaquad     | 1 Mquad       |
 |                       |                    | 100 000           | 100 kiloquad   | 100 kquad     |
-| 1 square hectometer (hectare)  | 1 Hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
+| 1 square hectometer (hectare)  | 1 hm<sup>2</sup>   | 10 000            | 10 kiloquad    | 10 kquad      |
 |                       |                    | 1000              | 1 kiloquad     | 1 kquad       |
 | 1 square decameter    | 1 dam<sup>2</sup>  | 100               | 100 quad       | 100 quad      |
 |                       |                    | 10                | 10 quad        | 10 quad       |
