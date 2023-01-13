@@ -21,6 +21,7 @@ Issues:
 1. In so naming, the SI system ignores its own rules. The rules say you can't call something a "kilokilogram". This prevents using correct prefixes with the base unit of mass.
 2. This promotes use of, and makes it sound like, the base unit of mass is the gram, which is not the case.
 3. This often results in confusion and errors by a factor of 1000.
+4. The International System of Units (SI) is supposed to be "coherent" with one and only one name for each (base) unit.  While the kilogram value is coherent, the incorrect name causes "grams" to be thought of as the base unit which is not coherent.
 
 I realize that this is just a fluke of history; someone decided to call it that and that's the way it is.
 
@@ -90,5 +91,5 @@ Who could I send this to who would be influential in voting for and getting this
 
 Thanks for your consideration.
 
-Last changed: 2022-10-29
+Last changed: 2023-01-12
 
