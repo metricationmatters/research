@@ -39,6 +39,8 @@ The SI system doesn't have a name for the base unit of area, but more of a descr
 
 The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additionally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
 
+The SI system is suppose to be coherent with (only) one name for each type of unit.  With area the probem is the name, with volume the problem is the name and the sub-unit.
+
 The SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
 
 Why is that?
@@ -203,4 +205,6 @@ I would hope that in the future our standardized system of measurements could be
 Who could I send this to who would be influential in voting for and getting this change adopted?
 
 Thanks for your consideration.
+
+Last Updated: 2023-01-12
 
