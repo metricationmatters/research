@@ -9,6 +9,6 @@ Use Metric v2: It's 1000 Times Easier
 1000 nanovols = 1 millovol (mvol) = 1 liter (L)
 1000 millovols = 1 vol (vol) [Volume Base Unit] = 1 cubic meter (m^3)
 --------------------------------------------------------------------------
-1000 grams = 1 klug (kg) [Mass Base Unit]
+1000 milloklugs (grams) = 1 klug (kg) [Mass Base Unit]
 1000 klugs = 1 kilaklug (Kkg)
 --------------------------------------------------------------------------
