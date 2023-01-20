@@ -1,14 +1,14 @@
 Use Metric v2: It's 1000 Times Easier
-----------------------------------------------------------------
-1000 millometers (1000 mm) = 1 meter (1 m) [Length Base Unit]
-1000 meters (1000 m) = 1 kilameter (1 Km)
-----------------------------------------------------------------
-1000 milloquads (1000 mquad) = 1 quad (1 quad) [Area Base Unit] = 1 square meter (1 m^2)
-1000 quads (1000 quad) = 1 kilaquad (1 Kquad)
-----------------------------------------------------------------
-1000 milloliters (1000 mL) = 1 liter (1 L) = 1 millovol (1 mvol)
-1000 liters (1000 L) = 1 vol (1 vol) [Volume Base Unit] = 1 cubic meter (1 m^3)
-----------------------------------------------------------------
-1000 grams (1000 g) = 1000 milliklugs (1000 mkg) = 1 klug (1 kg) [Mass Base Unit]
-1000 klugs (1000 kg) = 1 kilaklug (1 Kkg) = 1 metric ton
-----------------------------------------------------------------
+--------------------------------------------------------------------------
+1000 millometers = 1 meter (m) [Length Base Unit]
+1000 meters = 1 kilameter (Km)
+--------------------------------------------------------------------------
+1000 milloquads = 1 quad (1 quad) [Area Base Unit] = 1 square meter (m^2)
+1000 quads = 1 kilaquad (Kquad)
+--------------------------------------------------------------------------
+1000 nanovols = 1 millovol (mvol) = 1 liter (L)
+1000 millovols = 1 vol (vol) [Volume Base Unit] = 1 cubic meter (m^3)
+--------------------------------------------------------------------------
+1000 grams = 1 klug (kg) [Mass Base Unit]
+1000 klugs = 1 kilaklug (Kkg)
+--------------------------------------------------------------------------
