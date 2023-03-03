@@ -78,7 +78,8 @@ Web Sites
 Humor
 =====
 
-1. [Roman Numerals -> Decimal](https://www.youtube.com/watch?v=fjFaKD9BuOc)
+1. [Roman Numerals -> Decimal (YouTube)](https://www.youtube.com/watch?v=fjFaKD9BuOc)
+1. [Roman Numerals -> Decimal (My Copy)](humor/the-frantics-roman-numerals.mp4)
 1. [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
 1. [Metric Jokes](humor/MetricJokes.txt)
 1. [Rational Customary System](humor/RationalCustomarySystem.jpg)
