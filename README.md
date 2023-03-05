@@ -65,6 +65,8 @@ History
 =======
 
 1. [Babel Of Units](history/BableOfUnits-1506.01951.pdf)
+1. [History of U.S. Units - URL](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication447.pdf)
+1. [History of U.S. Units - Copy](history/nbsspecialpublication447.pdf)
 1. [U.S. - Finally only one foot](https://static.tti.tamu.edu/conferences/uesi21/presentations/track-b/dennis.pdf)
 
 Web Sites
