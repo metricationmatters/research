@@ -10,7 +10,7 @@ I have several issues with the SI system as currently defined.
 Problem
 =======
 
-What is the proper way to indicate numbers and prefixes for base units of area and volume?
+What is the proper way to indicate numbers and prefixes for names of units of area and volume?
 
 1 square millimeter (1 mm<sup>2</sup>) is not the same as 1 milli square meter.
 
@@ -18,30 +18,52 @@ What is the proper way to indicate numbers and prefixes for base units of area a
 
 How do you "say" square meter and cubic meter with numbers and prefixes?
 
-I've not heard people talk about the proper way to say square meter and cubic meter with numbers and prefixes.
+I've not heard people talk about the proper way to say square meter and
+cubic meter with numbers and prefixes.
 
 I don't think it is "50 kilo square meter".
 
 I don't think it is "50 milli cubic meter".
 
-Specifically, the problem for area is the numbers between, for example, "1 square meter" and "1 square kilometer" or between "1 square kilometer" and "1 square megameter" or any of the prefixes.  There are multiple factors of 10 between those and there doesn't seem to be an easy way to say, write, or think about those in-between numbers.
+Specifically, the problem for area is the numbers between, for example,
+ "1 square meter" and "1 square kilometer" or between "1 square kilometer" and
+"1 square megameter" or any of the prefixes.  There are multiple factors of 10
+between those and there doesn't seem to be an easy way to say, write, or think
+about those in-between numbers.
 
 
-Specifically, the problem for volume is the numbers between, for example, "1 cubic meter" and "1 cubic kilometer" or between "1 cubic kilometer" and "1 cubic megameter" or any of the prefixes.  There are multiple factors of 10 between those and there doesn't seem to be an easy way to say, write, or think about those in-between numbers.
+Specifically, the problem for volume is the numbers between, for example,
+"1 cubic meter" and "1 cubic kilometer" or between "1 cubic kilometer" and
+"1 cubic megameter" or any of the prefixes.  There are multiple factors of 10
+between those and there doesn't seem to be an easy way to say, write, or think
+about those in-between numbers.
 
-The concepts are "area" and "volume" which are extensions of linear length into 2 and 3 dimensions.
+The base unit is the concept length and the concepts of area and volume are
+derived units which are extensions of linear length into 2 and 3 dimensions.
 
 The beauty and simplicity of the SI system for other units doesn't seem to extend to area and volume.
 
-There should be some easy way to use a number and a prefix along with a unit name to denote "area" and "volume".
+There should be some easy way to use a number and a prefix along with a unit
+name to denote "area" and "volume".
 
-The SI system doesn't have a name for the base unit of area, but more of a description (square meter).  This forces unwieldy usage of "50 000 square meters" instead of "50 kilo square meters".
+The SI system doesn't have a name for the unit of area, but more of a
+description (square meter).  This forces unwieldy usage of
+"50 000 square meters" instead of "50 kilo square meters".
 
-The SI system has a name for a sub-unit of volume but not the base unit.  The current definition seems more of a description (cubic meter) than a name.  This forces unwidy usage such as "50 000 cubic meters" instead of "50 kilo cubic meters".  Additionally, people commonly talk about and think of the sub-unit liter as if it were the base unit which is not correct.  This is probably because it has a name that can be properly used with numbers and prefixes (50 kL).
+The SI system has a name for a sub-unit of volume but not the unit name.  The
+current definition seems more of a description (cubic meter) than a name.  This
+forces unwidy usage such as "50 000 cubic meters" instead of
+"50 kilo cubic meters".  Additionally, people commonly talk about and think of
+the sub-unit liter as if it were the base unit which is not correct.  This is
+probably because it has a name that can be properly used with numbers and
+prefixes (50 kL).
 
-The SI system is suppose to be coherent with (only) one name for each type of unit.  With area the probem is the name, with volume the problem is the name and the sub-unit.
+The SI system is suppose to be coherent with (only) one name for each type of
+unit.  With area the probem is the name, with volume the problem is the name and
+the sub-unit.
 
-The SI system has proper names for units for everything except for kilogram, square meter, and cubic meter.
+The SI system has proper names for units for everything except for kilogram,
+square meter, and cubic meter.
 
 Why is that?
 
@@ -50,39 +72,52 @@ How can we fix it to make it easier to say, use, and think about area and volume
 Solution
 ========
 
-I would not deprecate the current usage but relegate the current "square meter" and "cubic meter" to an accurate description.
+I would not deprecate the current usage but relegate the current square meter
+and "cubic meter" to an "accurate description".
 
-Then I propose to give the square meter and the cubic meter
-a name.  "square meter" and "cubic meter" is competely accurate but more difficult to say than a simple name.  Giving those units a name would allow correct number and prefixes to the base unit name.
+I propose to give the square meter and the cubic meter
+a name.  "square meter" and "cubic meter" is competely accurate but more
+difficult to say than a simple name.  Giving those units a name would allow
+correct number and prefixes to be used with the unit name.
 
-The SI system is at its best when each base unit has one (unique) name.
+The SI system is at its best when each unit has one (unique) name.
 
 Example usage tables
 ====================
 
 The following tables illustrate the use of the new units.
 
-The tables below only show the tables for prefixes up to mega and down to micro but are actually used in the same way for any of the prefixes from quetta to quecto.
+The tables below only show the tables for prefixes up to mega and down to micro
+but are actually used in the same way for any of the prefixes from quetta to
+quecto.
 
-*** NOTE ***: The lines with blank names and notation are not easily said, notated, or thought about with the current rules and notation but easily extendable to "proper SI usage" of a number, prefix, and unit name with the new unit names.
+*** NOTE ***: The lines with blank names and notation are not easily said,
+notated, or thought about with the current rules and notation but easily
+extendable to "proper SI usage" of a number, prefix, and unit name with the new
+unit names.
 
 Area
 ====
 
-Unfortunately, while the obvious choice for area is the "are", it and the "hectare" are previously used and currently used, respectively.
-However they are wierdly sized units and "are" would not be suitable for a base unit unless we redefine the "are" and the "hectare".
+Unfortunately, while the obvious choice for area is the "are", it and the
+"hectare" are previously used and currently used, respectively.
+However they are wierdly sized units and "are" would not be suitable for a unit
+name unless we redefine the "are" and the "hectare".
 
 1 are = 100 m<sup>2</sup> but is no longer in (common) use.
 
 1 hectare = 100 are = 10 000 m<sup>2</sup>
 
-If we could redefine the name "are = 1 square meter" and redefine the "hectare" (which I doubt is easily doable) then the "are" could be used for the base unit of area.
+If we could redefine the name "are = 1 square meter" and redefine the
+"hectare" (which I doubt is easily doable) then the "are" could be used for the
+unit name of area.
 
 Greek word for square: tetra
 
 Latin word for square: quad
 
-Proposal: At the moment I'm going to propose "1 quad = 1 square meter", mainly because it is one syllable.
+Proposal: At the moment I'm going to propose "1 quad = 1 square meter", mainly
+because it is one syllable.
 
 
 | Name                  | Notation           | Multiplier        | New name       | New notation  |
@@ -179,7 +214,11 @@ Disadvantages
 =============
 
 1. Adoption might take (a long) time to get the world to use the new names and symbols (like other SI name changes, unit additions, etc. for example "Cycles per second -> Hertz" and "Centigrade -> Celsius").
-2. Some people have provided feedback that using a name would "hide" what is going on. The base unit is length, and area and volume are just the square and cube of length.  My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept or base unit.  The concepts are linear length, area (length squared), and volume (length cubed). We already have a name for the volume sub-unit (liter) but that confuses people and they constantly think that the liter is the base unit of volume. I think that is because it is a name, which is easier to use than the base unit.  The "quad" could be the easy-to-use base unit name for area, the liter *could* (not must) be deprecated, and the "vol" could be the easy-to-use base unit name for volume.
+2. Some people have provided feedback that using a name would "hide" what is
+going on. The base unit is length, and area and volume are derived units and
+are just the square and cube of length.
+
+  My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept or base unit.  The concepts are linear length, area (length squared), and volume (length cubed). We already have a name for the volume sub-unit (liter) but that confuses people and they constantly think that the liter is the base unit of volume. I think that is because it is a name, which is easier to use than the base unit.  The "quad" could be the easy-to-use base unit name for area, the liter *could* (not must) be deprecated, and the "vol" could be the easy-to-use base unit name for volume.
 2. Other disadvantages?
 
 Conclusion

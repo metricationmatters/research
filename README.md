@@ -64,6 +64,7 @@ Papers
 History
 =======
 
+1. [The first idea for the metric system - pages 190 - 193](https://www.google.co.uk/books/edition/An_Essay_Towards_a_Real_Character_and_a/BCCtZjBtiEYC?hl=en&gbpv=1&pg=PA2&printsec=frontcover)
 1. [Babel Of Units](history/BableOfUnits-1506.01951.pdf)
 1. [History of U.S. Units - URL](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication447.pdf)
 1. [History of U.S. Units - Copy](history/nbsspecialpublication447.pdf)
