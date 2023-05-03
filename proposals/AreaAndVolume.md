@@ -54,7 +54,7 @@ The SI system has a name for a sub-unit of volume but not the unit name.  The
 current definition seems more of a description (cubic meter) than a name.  This
 forces unwidy usage such as "50 000 cubic meters" instead of
 "50 kilo cubic meters".  Additionally, people commonly talk about and think of
-the sub-unit liter as if it were the base unit which is not correct.  This is
+the sub-unit liter as if it were the derive unit which is not correct.  This is
 probably because it has a name that can be properly used with numbers and
 prefixes (50 kL).
 
@@ -218,19 +218,19 @@ Disadvantages
 going on. The base unit is length, and area and volume are derived units and
 are just the square and cube of length.
 
-  My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept or base unit.  The concepts are linear length, area (length squared), and volume (length cubed). We already have a name for the volume sub-unit (liter) but that confuses people and they constantly think that the liter is the base unit of volume. I think that is because it is a name, which is easier to use than the base unit.  The "quad" could be the easy-to-use base unit name for area, the liter *could* (not must) be deprecated, and the "stere" could be the easy-to-use base unit name for volume.
+  My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept that should have a name.  The concepts are linear length, area (length squared), and volume (length cubed). We already have a name for the volume sub-unit (liter) but that confuses people and they often think that the liter is the coherent unit of volume. I think that is because it is a name, which is easier to use than the proper derived unit (cubic meter).  The "quad" could be the easy-to-use derived unit name for area, the liter *could* (not must) be deprecated, and the "stere" could be the easy-to-use derived unit name for volume.
 2. Other disadvantages?
 
 Conclusion
 ==========
 
-I propose adding new names for base unit of area (quad) and base unit of volume (stere).
+I propose adding new names for derived unit of area (quad) and derived unit of volume (stere).
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
-I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".  The normal SI rules suggest only one name for each base unit.
+I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".  The normal SI rules suggest only one name for each unit.
 
-I'm not suggesting this at this time, but note that that with the new unit name for volume (stere) there is no need for the "liter" unit, it can be called 1 millistere (1 mst).  The unit name of "liter" could be deprecated.  The normal SI rules suggest only one name for each base unit. This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion about the base unit of volume and its name.
+I'm not suggesting this at this time, but note that that with the new unit name for volume (stere) there is no need for the "liter" unit, it can be called 1 millistere (1 mst).  The unit name of "liter" could be deprecated.  The normal SI rules suggest only one name for each unit. This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion about the unit of volume and its name.
 
 The SI system is at its best when there is only one unique name for each unit.
 
