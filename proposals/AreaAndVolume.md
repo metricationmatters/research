@@ -52,9 +52,9 @@ description (square meter).  This forces unwieldy usage of
 
 The SI system has a name for a sub-unit of volume but not the unit name.  The
 current definition seems more of a description (cubic meter) than a name.  This
-forces unwidy usage such as "50 000 cubic meters" instead of
+forces unwieldy usage such as "50 000 cubic meters" instead of
 "50 kilo cubic meters".  Additionally, people commonly talk about and think of
-the sub-unit liter as if it were the derive unit which is not correct.  This is
+the sub-unit liter as if it were the derived unit which is not correct.  This is
 probably because it has a name that can be properly used with numbers and
 prefixes (50 kL).
 
@@ -72,10 +72,9 @@ How can we fix it to make it easier to say, use, and think about area and volume
 Solution
 ========
 
-I would not deprecate the current usage but relegate the current square meter
-and "cubic meter" to an "accurate description".
+I would deprecate but not abolish the current usage but call the current "square meter" and "cubic meter" an "accurate description.
 
-I propose to give the square meter and the cubic meter
+I propose to give the "square meter" and the "cubic meter"
 a name.  "square meter" and "cubic meter" is competely accurate but more
 difficult to say than a simple name.  Giving those units a name would allow
 correct number and prefixes to be used with the unit name.
