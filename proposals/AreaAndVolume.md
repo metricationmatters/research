@@ -205,7 +205,7 @@ Advantages
 
 1. Gives names to the "square meter" and "cubic meter" units. Names are powerful and simplify the notation, thinking about, and expression of the associated numbers and units.
 2. Follows the normal SI rules for numbers, prefixes, and unit names and notation.
-3. Single syllable.
+3. Single syllable for area name, two syllables for volume name.
 4. Gives names and notation to sections of the table that currently don't have a name when using the normal SI notation with "X square Ym", X is a number between 1 - 999 and Y is some prefix.
 
 
@@ -218,7 +218,8 @@ going on. The base unit is length, and area and volume are derived units and
 are just the square and cube of length.
 
   My response is, well, yes and no.  I would say that area and volume are conceptually "different enough" and "special enough" to consider them a different but (obviously) related concept that should have a name.  The concepts are linear length, area (length squared), and volume (length cubed). We already have a name for the volume sub-unit (liter) but that confuses people and they often think that the liter is the coherent unit of volume. I think that is because it is a name, which is easier to use than the proper derived unit (cubic meter).  The "quad" could be the easy-to-use derived unit name for area, the liter *could* (not must) be deprecated, and the "stere" could be the easy-to-use derived unit name for volume.
-2. Other disadvantages?
+
+3. Are there any other other disadvantages?
 
 Conclusion
 ==========
