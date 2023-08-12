@@ -4,8 +4,8 @@ Research on SI Metric System
 
 [Why Metric?](WhyMetric.md)
 
-Issues and Proposals
-====================
+Problems and Proposals
+======================
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
    [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf)
