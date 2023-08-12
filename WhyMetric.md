@@ -1,8 +1,8 @@
 Why Metric?
 ===========
 
-Main logical rational reaons
-============================
+Main logical rational reasons
+=============================
 
 1. The SI Metric system is the accepted world-wide standard, including in the US. It is simpler and easier to use than any other system. It was purposefully and explicitly designed "for all peoples, for all times", to allow everyone from the uneducated to the top scientists in the world to use the same measurement language.
 2. A country only needs one standard measurement system.  It doesn't need more than one.  Any more introduces errors and confusion.
