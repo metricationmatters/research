@@ -8,7 +8,7 @@ Problems and Proposals
 ======================
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
-   [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf)
+   - [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf)
 1. [Area and Volume](proposals/AreaAndVolume.md)
 1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
