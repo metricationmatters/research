@@ -10,6 +10,8 @@ Problems and Proposals
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
    - [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf)
    - [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
+   - [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
+   - [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
 1. [Area and Volume](proposals/AreaAndVolume.md)
 1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
@@ -44,12 +46,6 @@ SI References
 1. [SI Decisions](references/si-brochure-9-App1-EN.pdf)
 1. [SI Historical Notes](references/SI-Brochure-9-App4-EN.pdf)
 
-
-Rename Kilogram References
-==========================
-
-1. [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
-1. [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
 
 Papers
 ======
