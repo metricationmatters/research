@@ -8,7 +8,7 @@ How can those improvements be accomplished?
 
 I have several issues with the SI system as currently defined.
 
-Even though the SI system prefixes are fairly simple as they are currently defined (2022), I think the SI system prefix names and rules can be made even more simple and more regular.
+Even though the SI system prefixes are fairly simple as they are currently defined, I think the SI system prefix names and rules can be made even more simple and more regular.
 
 Whenever I look at the list of prefixes, several things immediately stand out glaringly to me and are hard for me to ignore:
 
@@ -76,5 +76,5 @@ Deprecate and change:
 2. deci  -> deco
 4. centi -> cento
 
-Last changed: 2023-08-11
+Last changed: 2023-08-13
 
