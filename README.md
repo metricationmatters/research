@@ -9,6 +9,7 @@ Problems and Proposals
 
 1. [Rename the Kilogram](proposals/RenameKilogram.txt)
    - [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf)
+   - [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
 1. [Area and Volume](proposals/AreaAndVolume.md)
 1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
@@ -27,11 +28,6 @@ Business Card
 1. [Metric Business Card](personal/MetricBusinessCard-v1.pdf)
 1. [Metric Business Card v2 TXT](personal/MetricBusinessCard-v2.txt)
 1. [Metric Business Card v2 PDF](personal/MetricBusinessCard-v2.pdf)
-
-Miscellaneous articles
-======================
-
-1. [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
 
 Problem with and changes to the SI
 ==================================
