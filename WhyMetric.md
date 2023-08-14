@@ -13,7 +13,7 @@ Additional reasons
 
 1. The SI Metric system simplifies all measurement units by using one name for each unit of measurement instead of multitudes of different names.  There are at least 199 different names for energy in the US customary units.  In the SI metric system there is only one.  The same applies to many other units of measurement.
 2. The SI metric system is the *preferred* measurement system in the US by law.
-3. Each year on average up to 98 000 lives are lost because of errors in conversion between customary and metric units.  A metricated US would immediately obviate any need for conversions that threaten lives.
+3. Each year on average up to 98 000 lives are lost because of errors in conversion of medicinal measurements between customary and metric units.  A metricated US would immediately obviate any need for conversions that threaten lives.
 4. Switching to Metric has costs.  Not switching to Metric has costs.  Which is greater?  Most countries have demonstrated multiple times that switching to SI Metric would save money in the long run and costs can be recouped within several years..
    1. Dual sets of tools would not be needed.
    2. It is estimated that education costs of up to 219 G$ could be saved (1 year of education for each child).
