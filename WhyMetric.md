@@ -20,4 +20,4 @@ Additional reasons
    - For other countries, typically 10-15% of company costs every year could be saved.
    - It is estimated that up to 1 T$ could be saved in the the US each year.
    - Expand US company access to world markets, increase trade.
-5. Switching the US to Metric would alleviate misunderstandings in measurement between people in the US and all other people in the world.  Many people in other parts of the world don't know "inches", "feet", "miles", "ounces", "pounds", "gallons", etc.  That forces them to convert for us or for us to convert for them which introduces frequent errors and misunderstanding.
+5. Switching the US to Metric would alleviate misunderstandings in measurement between people in the US and all other people in the world.  Many people in other parts of the world don't know "inches", "feet", "miles", "ounces", "pounds", "gallons", etc.  That forces them to convert for us or for us to convert for them which introduces frequent and costly errors and misunderstanding.
