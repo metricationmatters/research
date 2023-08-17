@@ -12,7 +12,7 @@ Cop: "Do you know how fast you were going?"
 
 Heisenberg: "No, but I know where I am!"
 
-Cop: "Sir, you were going 80 mi/h in a 30 mi/h zone!"
+Cop: "Sir, you were going 80 km/h in a 30 km/h zone!"
 
 Heisenberg: Throws up his hands and says, "Great! Now I'm lost!"
 
