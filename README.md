@@ -12,6 +12,7 @@ Problems and Proposals
    - [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
    - [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
    - [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
+   - Rename the kilogram (Nature 1968)](https://www.nature.com/articles/218209d0.pdf)
 1. [Area and Volume](proposals/AreaAndVolume.md)
 1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
