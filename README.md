@@ -12,7 +12,7 @@ Problems and Proposals
    - [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
    - [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
    - [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
-   - Rename the kilogram (Nature 1968)](https://www.nature.com/articles/218209d0.pdf)
+   - [Rename the kilogram (Nature 1968)](https://www.nature.com/articles/218209d0.pdf)
 1. [Area and Volume](proposals/AreaAndVolume.md)
    - [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf) - Better to just get rid of hectare and use proposal in [Area and Volume](proposals/AreaAndVolume.md)
 1. [Prefix Problems](proposals/Prefixes.md)
