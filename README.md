@@ -14,6 +14,7 @@ Problems and Proposals
    - [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
    - Rename the kilogram (Nature 1968)](https://www.nature.com/articles/218209d0.pdf)
 1. [Area and Volume](proposals/AreaAndVolume.md)
+   - [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf)
 1. [Prefix Problems](proposals/Prefixes.md)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
 1. Circular dependencies
@@ -36,7 +37,6 @@ Problem with and changes to the SI
 
 1. [Evolving SI](research/Brown_2020_Metrologia_57_023001.pdf)
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf)
-1. [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf)
 
 SI References
 =============
