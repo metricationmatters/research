@@ -72,7 +72,7 @@ How can we fix it to make it easier to say, use, and think about area and volume
 Solution
 ========
 
-I would deprecate but not abolish the current usage but call the current "square meter" and "cubic meter" an "accurate description.
+I would deprecate but not abolish the current usage but call the current "square meter" and "cubic meter" an "accurate description".
 
 I propose to give the "square meter" and the "cubic meter"
 a name.  "square meter" and "cubic meter" is competely accurate but more
@@ -246,5 +246,5 @@ Who could I send this to who would be influential in voting for and getting this
 
 Thanks for your consideration.
 
-Last Updated: 2023-05-29
+Last Updated: 2023-08-31
 
