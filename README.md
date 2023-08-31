@@ -33,7 +33,6 @@ Business Card
 1. [Metric Business Card](BusinessCard/MetricBusinessCard-v2-only.pdf) - [Adobe Illustrator Source](BusinessCard/MetricBusinessCard-v2-only.ai)
 1. [Metric Business Card v2 TXT](MetricBusinessCard/MetricBusinessCard-v2.txt)
 
-1. [Evolving SI](research/Brown_2020_Metrologia_57_023001.pdf)
 SI References
 =============
 
