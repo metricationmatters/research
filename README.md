@@ -66,10 +66,13 @@ History
 Web Sites
 =========
 
-1. http://metricationmatters.com - Copy https://web.archive.org/web/20230605032722/http://metricationmatters.com/
+1. https://usma.org
+1. https://ukma.org
+1. http://metricationmatters.com - Copy https://web.archive.org/web/20230605032722/http://metricationmatters.com
+1. https://metricviews.uk
 1. http://www.reddit.com/r/Metric
-1. https://themetricmaven.com/
-1. https://milebehind.wordpress.com/
+1. https://themetricmaven.com
+1. https://milebehind.wordpress.com
 
 Humor
 =====
