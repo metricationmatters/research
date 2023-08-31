@@ -19,6 +19,7 @@ Problems and Proposals
 1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
 1. Circular dependencies
 1. Unclear definitions
+1. [Evolving SI](research/Brown_2020_Metrologia_57_023001.pdf)
 
 
 Reports
@@ -32,12 +33,7 @@ Business Card
 1. [Metric Business Card](BusinessCard/MetricBusinessCard-v2-only.pdf) - [Adobe Illustrator Source](BusinessCard/MetricBusinessCard-v2-only.ai)
 1. [Metric Business Card v2 TXT](MetricBusinessCard/MetricBusinessCard-v2.txt)
 
-Problem with and changes to the SI
-==================================
-
 1. [Evolving SI](research/Brown_2020_Metrologia_57_023001.pdf)
-1. [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf)
-
 SI References
 =============
 
