@@ -75,6 +75,7 @@ Humor
 1. [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
 1. [Metric Jokes](humor/MetricJokes.txt)
 1. [Rational Customary System](humor/RationalCustomarySystem.jpg)
+1. [Keep it Clean - Use Metric](humor/CleanMetric.jpg)
 
 Non-Metric but Interesting
 ==========================
