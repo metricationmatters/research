@@ -50,7 +50,7 @@ The SI system doesn't have a name for the unit of area, but more of a
 description (square meter).  This forces unwieldy usage of
 "50 000 square meters" instead of "50 kilo square meters".
 
-The SI has a peculiar measure of area, "hectare", which is not based off the unit of area (square meter) but 100 square meters.
+Another problem: The SI has a peculiar measure of area, "hectare", which is not based off the unit of area (square meter) but hectare = 100 are = 10 000 m2.
 
 The SI system has a name for a sub-unit of volume but not the unit name.  The
 current definition seems more of a description (cubic meter) than a name.  This
