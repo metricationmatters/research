@@ -44,11 +44,13 @@ derived units which are extensions of linear length into 2 and 3 dimensions.
 The beauty and simplicity of the SI system for other units doesn't seem to extend to area and volume.
 
 There should be some easy way to use a number and a prefix along with a unit
-name to denote "area" and "volume".
+name to denote area and volume.
 
 The SI system doesn't have a name for the unit of area, but more of a
 description (square meter).  This forces unwieldy usage of
 "50 000 square meters" instead of "50 kilo square meters".
+
+The SI has a peculiar measure of area, "hectare", which is not based off the unit of area (square meter) but 100 square meters.
 
 The SI system has a name for a sub-unit of volume but not the unit name.  The
 current definition seems more of a description (cubic meter) than a name.  This
@@ -73,6 +75,8 @@ Solution
 ========
 
 I would deprecate but not abolish the current usage but call the current "square meter" and "cubic meter" an "accurate description".
+
+I propose that the "hectare" be deprecated.
 
 I propose to give the "square meter" and the "cubic meter"
 a name.  "square meter" and "cubic meter" is competely accurate but more
@@ -228,7 +232,7 @@ I propose adding new names for derived unit of area (quad) and derived unit of v
 
 I don't care about the particular names I've currently selected, they could be anything but would be handy to have them be one syllable.
 
-I'm not suggesting this at this time, but note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".  The normal SI rules suggest only one name for each unit.
+Note that with the new unit name for area (quad) there is no need for the "hectare" unit, it can be replaced with "10 kiloquad (10 kquad)".  The normal SI rules suggest only one name for each unit.
 
 I'm not suggesting this at this time, but note that that with the new unit name for volume (stere) there is no need for the "liter" unit, it can be called 1 millistere (1 mst).  The unit name of "liter" could be deprecated.  The normal SI rules suggest only one name for each unit. This would continue to simplify the SI system and get rid of multiple unit names for one type of unit, and confusion about the unit of volume and its name.
 
@@ -246,5 +250,5 @@ Who could I send this to who would be influential in voting for and getting this
 
 Thanks for your consideration.
 
-Last Updated: 2023-08-31
+Last Updated: 2023-09-04
 
