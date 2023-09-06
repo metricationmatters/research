@@ -22,6 +22,13 @@ Problems and Proposals
 1. [Evolving SI - User Adoption](research/Brown_2020_Metrologia_57_023001.pdf)
 
 
+Why?
+====
+
+1. [Horsepower is a dumb unit](https://www.youtube.com/watch?v=gC2-JKO0c2I)
+1. [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds)
+
+
 Reports
 =======
 
