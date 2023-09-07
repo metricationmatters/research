@@ -25,8 +25,8 @@ Problems and Proposals
 Why?
 ====
 
-1. [Horsepower is a dumb unit](https://www.youtube.com/watch?v=gC2-JKO0c2I)
-1. [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds)
+1. [Horsepower is a dumb unit](https://www.youtube.com/watch?v=gC2-JKO0c2I) - Use Watts instead.
+1. [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds) - Use stere/m instead.
 
 
 Reports
