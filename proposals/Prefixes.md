@@ -14,7 +14,7 @@ Whenever I look at the list of prefixes, several things immediately stand out gl
 
 1. The difference in capitalization of the magnifying prefixes ( currently "kilo" is not capitalized but the rest are ).
 2. The endings are not consistent.  Some end in '-a' and some in '-o' and there doesn't seem to be a rule.
-3. There is no need for the 'deka', 'hecto', 'deci', and 'centi' prefixes; they only clutter up the number of prefixes close to 1. Let's get rid of prefixes we don't absolutely need.  We can simplify the system by deprecating them.  Instead of saying something is 1 centimeter we can say something is '10 millometers' (combining rules and deprecation).
+3. There is no need for the 'deca', 'hecto', 'deci', and 'centi' prefixes; they only clutter up the number of prefixes close to 1. Let's get rid of prefixes we don't absolutely need.  We can simplify the system by deprecating them.  Instead of saying something is 1 centimeter we can say something is '10 millometers' (combining rules and deprecation).
 It simplifies the system to only have prefixes in multiples of 10<sup>3</sup> units and makes it match Engineering notation.  The main reason is the simplication of the system which makes things easier to teach, learn, and use.  At the very least, let's change the names to abide by more regular rules.
 
 Proposal:
@@ -25,7 +25,7 @@ Rules
 
 1. Magnifying prefix symbols (not names) start with upper case letters, minifying prefix symbols (not names) start with lower case letters.
 2. Magnifying prefixes end in "-a", Minifying prefixes end in "-o".
-3. Deprecate 'hecto', 'deka', 'deci', and 'centi', and regularize their beginnings and endings.
+3. Deprecate 'hecto', 'deca', 'deci', and 'centi', and regularize their beginnings and endings.
 
 With any change, there are pros and cons.  What are the pros and cons for this proposal in your mind?
 
