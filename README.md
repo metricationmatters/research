@@ -29,6 +29,12 @@ Why?
 1. [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds) - Use stere/m instead.
 
 
+Pat Naughtin - Metrication Leader
+=================================
+
+1. [Metrication Matters](http://metricationmatters.org)
+1. [Various Subjects](https://www.youtube.com/watch?v=_lshRAPvPZY)
+
 Reports
 =======
 
