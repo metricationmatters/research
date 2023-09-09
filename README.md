@@ -34,6 +34,7 @@ Pat Naughtin - Metrication Leader
 
 - [Metrication Matters](http://metricationmatters.org)
 - [Various Subjects](https://www.youtube.com/watch?v=_lshRAPvPZY)
+- [Be a Metrication Leader](https://themetricmaven.com/wp-content/uploads/2012/03/Metrication-Leaders-Guide-2009-Pat-Naughtin.pdf)
 
 Reports
 =======
