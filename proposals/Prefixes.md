@@ -71,10 +71,10 @@ Minifying Prefixes
 
 Deprecate and change:
 
-1. hecto -> Hecta
-2. deka  -> Deka
-2. deci  -> deco
-4. centi -> cento
+1. hecto (h)  -> hecta (H)
+2. deca  (da) -> deca (Da)
+3. deci  (d)  -> deco (d)
+4. centi (c) -> cento (c)
 
-Last changed: 2023-08-13
+Last changed: 2023-09-09
 
