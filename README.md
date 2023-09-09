@@ -49,12 +49,17 @@ SI References
 1. [SI Historical Notes](references/SI-Brochure-9-App4-EN.pdf)
 
 
-Papers
-======
+Paper
+=====
 
 1. [Standard Metric Paper](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
 1. [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E)
 1. [Metric Paper Drawings](https://www.engineeringtoolbox.com/drawings-paper-sheets-sizes-d_349.html)
+
+Medicine
+========
+
+1. [How to Write Drug Dosages](http://http://www.cwladis.com/math104/lecture2.php)
 
 History
 =======
