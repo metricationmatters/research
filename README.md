@@ -105,5 +105,5 @@ Humor
 Non-Metric but Interesting
 ==========================
 
-- [Gregorian Calendar Proclamation](https://www.fourmilab.ch/documents/calendar/IG_Latin.html)
+- [Gregorian Calendar Proclamation](https://www.fourmilab.ch/documents/calendar/IG_Latin.html) - [Translation](https://www-fourmilab-ch.translate.goog/documents/calendar/IG_Latin.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
