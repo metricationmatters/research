@@ -42,6 +42,7 @@ Reports
 
 - [Cost of NOT Metricating](research/CostOfNonMetrication.pdf)
 - [Mile Behind Final Report](reports/MileBehind-sst-final-3.pdf)
+- [World War I Metrical Tragedy (1915)](https://www.nonpartisaneducation.org/Review/Resources/aMetricalTragedy.htm)
 
 Business Card - Learn the Metric System in a minute
 ===================================================
@@ -99,6 +100,7 @@ Humor
 - [Rational Customary System](humor/RationalCustomarySystem.jpg)
 - [Compare Metric vs USC](humor/LogicalMetric.jpg)
 - [Keep it Clean - Use Metric](humor/CleanMetric.jpg)
+- [Redfine the Kilogram](https://www.explainxkcd.com/wiki/index.php/2073:_Kilogram)
 
 Non-Metric but Interesting
 ==========================
