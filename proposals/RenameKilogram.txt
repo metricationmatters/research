@@ -25,7 +25,7 @@ Issues:
 
 I realize that this is just a fluke of history; someone decided to call it that and that's the way it is.
 
-On reason may be that the SI System (as currently defined) was designed after the name was selected, instead of before.
+One reason may be that the SI System (as currently defined) was designed after the name was selected, instead of before.
 
 It appears that right at the beginning when the Metric System was first adopted, they didn't rename "Kilogram" to something else; that was a mistake.
 
