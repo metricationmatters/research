@@ -25,7 +25,7 @@ Problems and Proposals
 Incorrect Facts about the Metric System
 =======================================
 [Here](Incorrect.md) is a list of web sites, (text) books and articles that
-give factual errors about the Metric System.
+give factual errors about the Metric System.  I believe that most of these errors are caused by incorrect or inconvenient names of the SI Metric System units of mass, area, and volume.
 
 
 Dumb Units
