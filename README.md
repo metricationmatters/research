@@ -14,12 +14,12 @@ Problems and Proposals
    - [Rename the kilogram - discussion](https://www.quora.com/Should-the-kilogram-be-renamed-to-a-unit-without-a-prefix?share=1)
    - [Rename the kilogram (Nature 1968)](https://www.nature.com/articles/218209d0.pdf)
 - [Area and Volume](proposals/AreaAndVolume.md)
-   - [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf) - Better to just get rid of hectare and use proposal for area name in [Area and Volume](proposals/AreaAndVolume.md)
+   - [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf) - Better to just get rid of hectare and use proposal for area name in [Area and Volume](proposals/AreaAndVolume.md).
 - [Prefix Problems](proposals/Prefixes.md)
 - [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
 - Circular dependencies
 - Unclear definitions
-- [Evolving SI - User Adoption](research/Brown_2020_Metrologia_57_023001.pdf)
+- [Evolving SI - User Adoption](research/Brown_2020_Metrologia_57_023001.pdf) - How can the SI Metric System be changed and how hard is it to change it?
 
 
 Incorrect Facts about the Metric System
