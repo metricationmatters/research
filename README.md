@@ -97,11 +97,12 @@ Web Sites
 
 - https://usma.org
 - https://ukma.org.uk
-- http://metricationmatters.com - Copy https://web.archive.org/web/20230605032722/http://metricationmatters.com
+- http://metricationmatters.org - Archived from https://web.archive.org/web/20230605032722/http://metricationmatters.com
 - https://metricviews.uk
 - http://www.reddit.com/r/Metric
 - https://themetricmaven.com
 - https://milebehind.wordpress.com
+- https://metricmethods.com
 
 Humor
 =====
