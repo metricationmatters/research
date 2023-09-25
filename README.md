@@ -35,6 +35,12 @@ Dumb Units
 - [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds) - Use stere/m instead.
 
 
+Metric Myths
+============
+
+- [NASA](https://ukma.org.uk/why-metric/myths/metric-internationally/the-moon-landings/)
+
+
 Pat Naughtin - Metrication Leader
 =================================
 
