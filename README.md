@@ -53,6 +53,7 @@ Reports
 =======
 
 - [Cost of NOT Metricating](research/CostOfNonMetrication.pdf)
+- [Providing a Metric Option](reports/ProvidingAMetricOption.pdf)
 - [Mile Behind Final Report](reports/MileBehind-sst-final-3.pdf)
 - [World War I Metrical Tragedy (1915)](https://www.nonpartisaneducation.org/Review/Resources/aMetricalTragedy.htm)
 
