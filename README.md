@@ -109,7 +109,6 @@ Web Sites
 Humor
 =====
 
-- [Roman Numerals -> Decimal (YouTube)](https://www.youtube.com/watch?v=fjFaKD9BuOc) - [Copy](humor/the-frantics-roman-numerals.mp4)
 - [Heinz, Oscar Meyer, and Wonder Bread Go Metric](https://heinzhotdogpact.com/)
 - [Metric Jokes](humor/MetricJokes.txt)
 - [Rational Customary System](humor/RationalCustomarySystem.jpg)
@@ -121,4 +120,5 @@ Non-Metric but Interesting
 ==========================
 
 - [Gregorian Calendar Proclamation](https://www.fourmilab.ch/documents/calendar/IG_Latin.html) - [Translation](https://www-fourmilab-ch.translate.goog/documents/calendar/IG_Latin.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-
+- [Humor: Roman Numerals -> Decimal (YouTube)](https://www.youtube.com/watch?v=fjFaKD9BuOc) - [Copy](humor/the-frantics-roman-numerals.mp4)
+- [History: Roman Numerals -> Decimal](https://archive.org/details/laurence-sigler-fibonaccis-liber-abaci-2003)
