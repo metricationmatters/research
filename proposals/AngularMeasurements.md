@@ -36,3 +36,7 @@ One way might be to define a circle as "1 turn".
 | 1 minute of angle | 1 / ( 360 * 60 )      | 46.2962 microturns |
 | 1 second of angle | 1 / ( 360 * 60 * 60 ) | 771.6 nanoturns    |
 
+
+Is the turn/milliturn/microturn/nanoturn a useful angular measure?
+
+I'm not sure, what do you think?
