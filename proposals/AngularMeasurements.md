@@ -1,9 +1,19 @@
 Metric Angular Measurements
 ===========================
 
-How might angular measures be presented in "Metric" form?
+[Here](https://en.wikipedia.org/wiki/Angle) is a list of different units for angular measurements.
 
-"Metric" here being defined of as powers of 10 or 1000.
+They include:
+ - compass point
+ - degree
+ - grad
+ - radian
+ - turn
+ - various others
+
+How might angular measures be presented in "Metric form"?
+
+("Metric form" here being defined of as powers of 10 or 1000.)
 
 One way might be to define a circle as "1 turn".
 
