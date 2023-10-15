@@ -25,7 +25,7 @@ One way might be to define a circle as "1 turn".
 |  750 milliturns | 3/4 turn    |
 | 1000 milliturns | 1 turn      |
 
-| Unit              | Calculation           | milliturns        |
+| Unit              | Calculation           | turns             |
 | :--               | :--                   | :--               |
 | 6.28 milliradians | 1 / ( tau / 1000 )    | 1 milliturn       |
 | 1 day of time     | 1 / 1                 | 1 turn            |
