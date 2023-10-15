@@ -17,6 +17,7 @@ Problems and Proposals
    - [The unusual status of the hectare in the SI](research/Brown_2022_Metrologia_59_062101.pdf) - Better to just get rid of hectare and use proposal for area name in [Area and Volume](proposals/AreaAndVolume.md).
 - [Prefix Problems](proposals/Prefixes.md)
 - [Dimensionless units in the SI](research/Mohr_2015_Metrologia_52_40.pdf) - Specifically angles but maybe other units as well.
+- [Metric Angular Measurement](proposals/AngularMeasurements.md)
 - Circular dependencies
 - Unclear definitions
 - [Evolving SI - User Adoption](research/Brown_2020_Metrologia_57_023001.pdf) - How can the SI Metric System be changed and how hard is it to change it?
