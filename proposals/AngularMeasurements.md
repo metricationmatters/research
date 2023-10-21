@@ -29,9 +29,9 @@ One way might be to define a circle as "1 turn".
 | :--               | :--                   | :--                |
 | 6.28 milliradians | 1 / ( tau / 1000 )    | 1 milliturn        |
 | 1 day of time     | 1 / 1                 | 1 turn             |
-| 1 second of time  | 1 / ( 24 * 60 * 60 )  | 11.574 microturns  |
-| 1 minute of time  | 1 / ( 24 * 60 )       | 694.444 microturns |
 | 1 hour   of time  | 1 / 24                | 41.666 milliturns  |
+| 1 minute of time  | 1 / ( 24 * 60 )       | 694.444 microturns |
+| 1 second of time  | 1 / ( 24 * 60 * 60 )  | 11.574 microturns  |
 | 1 degree of angle | 1 / 360               | 2.777 milliturns   |
 | 1 minute of angle | 1 / ( 360 * 60 )      | 46.2962 microturns |
 | 1 second of angle | 1 / ( 360 * 60 * 60 ) | 771.6 nanoturns    |
