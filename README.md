@@ -78,7 +78,7 @@ Paper
 =====
 
 - [Standard Metric Paper](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html)
-- [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E)
+- [Metric Paper Explained](https://www.youtube.com/watch?v=mHeo62B0d0E) - "The A4 paper scale is the only rational irrational choice when it comes to paper sizes."
 - [Metric Paper Drawings](https://www.engineeringtoolbox.com/drawings-paper-sheets-sizes-d_349.html)
 
 Medicine
