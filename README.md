@@ -116,6 +116,7 @@ Humor
 - [Compare Metric vs USC](humor/LogicalMetric.jpg)
 - [Keep it Clean - Use Metric](humor/CleanMetric.jpg)
 - [Redfine the Kilogram](https://www.explainxkcd.com/wiki/index.php/2073:_Kilogram)
+- [Washington's Dream](https://www.youtube.com/watch?v=JYqfVE-fykk)
 
 Non-Metric but Interesting
 ==========================
