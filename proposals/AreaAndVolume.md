@@ -145,7 +145,7 @@ because it is one syllable.
 | 1 square centimeter   | 1 cm<sup>2</sup>   | 0.000 1           | 100 microquad  | 100 uquad     |
 |                       |                    | 0.000 01          | 10 microquad   | 10 uquad      |
 | 1 square millimeter   | 1 mm<sup>2</sup>   | 0.000 001         | 1 microquad    | 1 uquad       |
-|                       |                    | 0.000 000 1       | 100 nanoquad   | 100 uquad     |
+|                       |                    | 0.000 000 1       | 100 nanoquad   | 100 nquad     |
 |                       |                    | 0.000 000 01      | 10 nanooquad   | 10 nquad      |
 |                       |                    | 0.000 000 001     | 1 nanoquad     | 1 nquad       |
 |                       |                    | 0.000 000 000 1   | 100 picooquad  | 100 pquad     |
