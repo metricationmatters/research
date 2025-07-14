@@ -9,7 +9,7 @@ Research on SI Metric System
 Problems and Proposals
 ======================
 
-- [Rename the Kilogram](proposals/RenameKilogram.txt)
+- [Rename the Kilogram](proposals/RenameKilogram.md)
    - [They almost changed the name of the kilogram](proposals/17th-meeting-they-almost-changed-the-name-of-the-kilogram.pdf) (See Section 4)
    - [Washington Post - Rename the Kilogram](https://www.washingtonpost.com/opinions/while-youre-changing-the-kilogram-maybe-change-the-name-too/2017/07/12/19f9501e-6585-11e7-94ab-5b1f0ff459df_story.html)
    - [Where I got "klug" name from](https://www.tapatalk.com/groups/dozensonline/renaming-the-kilogram-t634.html)
