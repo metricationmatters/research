@@ -35,7 +35,7 @@ Dumb Units
 ==========
 
 - [Horsepower is a dumb unit](https://www.youtube.com/watch?v=gC2-JKO0c2I) - Use Watts instead.
-- [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds) - Use stere/m instead.
+- [Miles per Gallon is a dumb unit](https://www.youtube.com/watch?v=oLQmwOX6Xds) - Use stere/meter instead.
 
 
 Metric Myths
